@@ -1,0 +1,7 @@
+table_name,resolved_duplicate_keys,extra_rows_removed
+core_customers,118,118
+core_delivery_logs,166,166
+core_order_items,1316,1316
+core_orders,1438,1440
+core_refunds,7,7
+core_reviews,409,412

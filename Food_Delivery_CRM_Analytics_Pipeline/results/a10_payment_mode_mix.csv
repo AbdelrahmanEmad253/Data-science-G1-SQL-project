@@ -1,0 +1,11 @@
+payment_mode,order_status,orders,revenue
+card,completed,70032,62622220.11
+wallet,completed,69758,62486017.78
+upi,completed,69729,62402892.25
+cash,completed,69548,62333499.93
+(not captured / failed order),failed,5888,5343650.0
+wallet,cancelled,3784,3405868.0
+upi,cancelled,3769,3445606.0
+card,cancelled,3663,3324338.0
+cash,cancelled,3629,3296537.0
+None,failed,200,175226.0

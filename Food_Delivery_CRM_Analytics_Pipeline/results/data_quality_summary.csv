@@ -1,0 +1,7 @@
+issue,affected_rows
+orders - discount sentinel (99999) recovered as NULL,5919
+orders - fee sentinel (-1) recovered as NULL,5928
+order_items - qty sentinel (0) recovered/nulled,11926
+order_items - price sentinel (99999) recovered/nulled,11765
+delivery_logs - distance sentinel (99999) nulled,5633
+duplicate business keys resolved,3454
