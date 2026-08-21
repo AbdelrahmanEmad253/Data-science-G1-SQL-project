@@ -1,0 +1,17 @@
+order_status,cancel_stage,cancel_reason,orders,pct_of_all_orders
+completed,,,270608,90.2
+completed,None,,8459,2.82
+failed,,,5929,1.98
+cancelled,after_prepare,delay,1664,0.55
+cancelled,after_prepare,user_cancel,1652,0.55
+cancelled,out_for_delivery,delay,1644,0.55
+cancelled,before_prepare,user_cancel,1624,0.54
+cancelled,before_prepare,delay,1618,0.54
+cancelled,before_prepare,restaurant_issue,1591,0.53
+cancelled,out_for_delivery,user_cancel,1589,0.53
+cancelled,out_for_delivery,restaurant_issue,1583,0.53
+cancelled,after_prepare,restaurant_issue,1515,0.51
+failed,None,,159,0.05
+cancelled,before_prepare,,129,0.04
+cancelled,after_prepare,,121,0.04
+cancelled,out_for_delivery,,115,0.04

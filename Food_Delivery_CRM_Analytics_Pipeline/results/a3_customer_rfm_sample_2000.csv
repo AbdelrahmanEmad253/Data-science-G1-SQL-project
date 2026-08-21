@@ -1,0 +1,2001 @@
+customer_id,city,tier,recency_days,frequency,monetary,r_score,f_score,m_score,rfm_total,segment
+C067982,Delhi,casual,149.0,1,1528.0,3,2,2,7,New/Promising
+C072486,Mumbai,casual,1225.0,1,1190.0,1,1,2,4,Needs Attention
+C077669,Delhi,casual,66.0,3,2718.0,4,3,3,10,Champion
+C077740,Bangalore,casual,347.0,2,1478.0,2,2,2,6,Needs Attention
+C091972,Mumbai,casual,91.0,3,2083.47,3,3,3,9,Champion
+C027158,Bangalore,casual,298.0,1,988.0,2,1,1,4,Needs Attention
+C039282,Pune,casual,116.0,3,2919.86,3,3,3,9,Champion
+C090972,Hyderabad,casual,941.0,1,746.0,1,1,1,3,Needs Attention
+C017651,Mumbai,casual,606.0,4,4039.0,1,4,4,9,Loyal
+C087871,Mumbai,casual,35.0,1,1780.0,4,2,2,8,New/Promising
+C053281,Hyderabad,casual,667.0,1,604.0,1,1,1,3,Needs Attention
+C039561,Pune,casual,876.0,2,1890.0,1,2,2,5,Needs Attention
+C054976,Mumbai,casual,443.0,1,473.67,2,1,1,4,Needs Attention
+C089194,Pune,casual,379.0,1,350.0,2,1,1,4,Needs Attention
+C069254,Hyderabad,casual,413.0,1,288.0,2,1,1,4,Needs Attention
+C043805,Hyderabad,regular,349.0,1,1615.0,2,2,2,6,Needs Attention
+C021388,Hyderabad,casual,189.0,4,3469.0,3,4,3,10,Champion
+C078612,Pune,casual,910.0,1,667.36,1,1,1,3,Needs Attention
+C056994,Mumbai,regular,45.0,6,4468.0,4,4,4,12,Champion
+C020880,Delhi,casual,136.0,2,2038.66,3,2,3,8,New/Promising
+C052191,Delhi,casual,553.0,1,918.0,1,1,1,3,Needs Attention
+C021378,Delhi,casual,687.0,2,1821.0,1,2,2,5,Needs Attention
+C060248,Hyderabad,casual,1233.0,2,2928.0,1,3,3,7,Loyal
+C095178,Hyderabad,casual,494.0,3,554.99,1,3,1,5,At Risk
+C055879,Delhi,casual,480.0,1,756.0,1,1,1,3,Needs Attention
+C080559,Pune,casual,710.0,3,2182.92,1,3,3,7,Loyal
+C018631,Pune,casual,493.0,2,802.0,1,2,1,4,Needs Attention
+C080278,Bangalore,casual,99.0,3,1017.0,3,3,1,7,Needs Attention
+C057418,Pune,casual,118.0,1,913.0,3,1,1,5,New/Promising
+C018662,Bangalore,regular,132.0,5,3882.0,3,4,4,11,Champion
+C020274,Hyderabad,casual,446.0,2,578.0,2,2,1,5,Needs Attention
+C003410,Mumbai,casual,721.0,1,899.0,1,1,1,3,Needs Attention
+C094397,Delhi,casual,65.0,1,1352.0,4,2,2,8,New/Promising
+C069129,Mumbai,loyal,84.0,14,15127.0,4,4,4,12,Champion
+C058609,Bangalore,regular,742.0,1,1197.0,1,1,2,4,Needs Attention
+C021431,Bangalore,casual,1176.0,1,869.0,1,1,1,3,Needs Attention
+C032158,Mumbai,casual,228.0,2,1878.0,3,2,2,7,New/Promising
+C021482,Delhi,regular,8.0,6,5052.0,4,4,4,12,Champion
+C063198,Mumbai,casual,408.0,2,1071.62,2,2,2,6,Needs Attention
+C073377,Pune,regular,173.0,6,5183.0,3,4,4,11,Champion
+C085797,Hyderabad,casual,42.0,3,2965.0,4,3,3,10,Champion
+C049367,Pune,casual,86.0,4,3400.0,4,4,3,11,Champion
+C016010,Delhi,casual,1033.0,1,1010.0,1,1,1,3,Needs Attention
+C017218,Mumbai,casual,637.0,2,1971.0,1,2,2,5,Needs Attention
+C071001,Pune,casual,199.0,2,1571.0,3,2,2,7,New/Promising
+C075594,Delhi,casual,309.0,3,2586.0,2,3,3,8,Loyal
+C045290,Hyderabad,casual,198.0,2,2200.0,3,2,3,8,New/Promising
+C000702,Pune,casual,521.0,1,454.77,1,1,1,3,Needs Attention
+C085446,Hyderabad,casual,207.0,4,3348.77,3,4,3,10,Champion
+C021653,Mumbai,casual,343.0,1,313.0,2,1,1,4,Needs Attention
+C066682,Delhi,casual,751.0,1,558.0,1,1,1,3,Needs Attention
+C030070,Delhi,regular,140.0,7,8221.0,3,4,4,11,Champion
+C037995,Hyderabad,regular,878.0,4,3441.0,1,4,3,8,Loyal
+C056526,Hyderabad,casual,68.0,1,1218.0,4,1,2,7,New/Promising
+C057281,Mumbai,casual,72.0,3,1459.0,4,3,2,9,Needs Attention
+C058937,Hyderabad,casual,434.0,1,384.0,2,1,1,4,Needs Attention
+C082001,Delhi,casual,442.0,2,639.48,2,2,1,5,Needs Attention
+C054885,Hyderabad,casual,377.0,3,2865.0,2,3,3,8,Loyal
+C005910,Bangalore,casual,9.0,3,4034.0,4,3,4,11,Champion
+C009642,Bangalore,casual,213.0,1,550.0,3,1,1,5,New/Promising
+C023133,Bangalore,casual,301.0,1,314.0,2,1,1,4,Needs Attention
+C050393,Hyderabad,casual,19.0,4,5780.47,4,4,4,12,Champion
+C043286,Pune,casual,28.0,2,2004.0,4,2,3,9,New/Promising
+C034945,Bangalore,casual,97.0,1,2122.0,3,2,3,8,New/Promising
+C009641,Delhi,casual,220.0,1,383.0,3,1,1,5,New/Promising
+C005901,Bangalore,regular,21.0,2,842.0,4,2,1,7,New/Promising
+C076961,Mumbai,casual,187.0,3,2624.0,3,3,3,9,Champion
+C060492,Mumbai,casual,622.0,2,2177.0,1,2,3,6,Needs Attention
+C052602,Mumbai,casual,17.0,4,3207.0,4,4,3,11,Champion
+C077987,Delhi,loyal,101.0,14,14287.0,3,4,4,11,Champion
+C033004,Hyderabad,casual,106.0,2,2364.0,3,3,3,9,Champion
+C063412,Bangalore,regular,390.0,6,5185.62,2,4,4,10,Loyal
+C000803,Delhi,regular,115.0,3,1423.0,3,3,2,8,Needs Attention
+C059808,Hyderabad,casual,377.0,3,3403.0,2,3,3,8,Loyal
+C068245,Delhi,casual,612.0,2,3152.0,1,3,3,7,Loyal
+C069845,Mumbai,casual,207.0,1,534.0,3,1,1,5,New/Promising
+C096400,Delhi,casual,143.0,2,856.0,3,2,1,6,New/Promising
+C049581,Bangalore,regular,130.0,4,2924.0,3,3,3,9,Champion
+C032663,Hyderabad,regular,22.0,3,1995.0,4,3,3,10,Champion
+C048893,Hyderabad,loyal,110.0,15,12677.02,3,4,4,11,Champion
+C069134,Delhi,casual,542.0,2,2276.97,1,3,3,7,Loyal
+C049670,Delhi,casual,624.0,3,2088.86,1,3,3,7,Loyal
+C024255,Pune,casual,512.0,1,602.0,1,1,1,3,Needs Attention
+C023817,Mumbai,casual,477.0,1,428.0,1,1,1,3,Needs Attention
+C037383,Bangalore,casual,94.0,3,1531.0,3,3,2,8,Needs Attention
+C095093,Delhi,regular,94.0,4,4874.93,3,4,4,11,Champion
+C000614,Delhi,casual,45.0,1,2197.0,4,2,3,9,New/Promising
+C017364,Delhi,casual,232.0,3,4733.0,3,3,4,10,Champion
+C093582,Mumbai,casual,267.0,1,670.0,2,1,1,4,Needs Attention
+C094119,Delhi,casual,291.0,3,2211.47,2,3,3,8,Loyal
+C076414,Delhi,regular,131.0,6,4465.0,3,4,4,11,Champion
+C007848,Delhi,regular,12.0,7,5166.09,4,4,4,12,Champion
+C026701,Bangalore,regular,262.0,5,4441.43,2,4,4,10,Loyal
+C050565,Pune,casual,20.0,2,2190.63,4,2,3,9,New/Promising
+C026050,Bangalore,casual,84.0,1,390.0,4,1,1,6,New/Promising
+C073723,Pune,loyal,242.0,16,12628.8,2,4,4,10,Loyal
+C098964,Delhi,casual,129.0,1,824.0,3,1,1,5,New/Promising
+C035147,Delhi,casual,686.0,1,1739.0,1,2,2,5,Needs Attention
+C073145,Mumbai,regular,17.0,11,10008.87,4,4,4,12,Champion
+C000038,Delhi,regular,584.0,4,3618.0,1,4,4,9,Loyal
+C041653,Mumbai,casual,323.0,1,754.0,2,1,1,4,Needs Attention
+C065701,Mumbai,casual,321.0,1,442.0,2,1,1,4,Needs Attention
+C095515,Hyderabad,casual,84.0,6,5603.0,4,4,4,12,Champion
+C012386,Delhi,casual,144.0,1,1000.0,3,1,1,5,New/Promising
+C055085,Hyderabad,casual,468.0,2,2264.0,2,3,3,8,Loyal
+C045270,Bangalore,casual,466.0,2,1156.48,2,2,2,6,Needs Attention
+C021069,Delhi,casual,509.0,1,539.0,1,1,1,3,Needs Attention
+C040821,Pune,casual,526.0,2,955.0,1,2,1,4,Needs Attention
+C047130,Bangalore,loyal,29.0,17,15655.77,4,4,4,12,Champion
+C091301,Mumbai,casual,353.0,2,804.23,2,2,1,5,Needs Attention
+C002088,Hyderabad,regular,410.0,3,2662.3,2,3,3,8,Loyal
+C054528,Delhi,loyal,35.0,17,14961.48,4,4,4,12,Champion
+C043550,Delhi,casual,305.0,1,273.0,2,1,1,4,Needs Attention
+C005544,Hyderabad,regular,80.0,5,3740.45,4,4,4,12,Champion
+C029973,Delhi,casual,187.0,4,3281.0,3,4,3,10,Champion
+C036474,Delhi,casual,851.0,3,4049.0,1,3,4,8,Loyal
+C091994,Mumbai,casual,639.0,2,1190.46,1,2,2,5,Needs Attention
+C081786,Delhi,casual,188.0,2,874.0,3,2,1,6,New/Promising
+C064875,Hyderabad,casual,306.0,2,2492.0,2,3,3,8,Loyal
+C082344,Mumbai,regular,135.0,2,820.0,3,2,1,6,New/Promising
+C021911,Hyderabad,casual,6.0,3,2986.02,4,3,3,10,Champion
+C025154,Mumbai,casual,7.0,4,3238.0,4,4,3,11,Champion
+C026236,Mumbai,casual,151.0,1,1120.0,3,1,2,6,New/Promising
+C033967,Hyderabad,casual,4.0,1,750.0,4,1,1,6,New/Promising
+C096978,Pune,casual,404.0,3,2637.06,2,3,3,8,Loyal
+C040757,Bangalore,casual,173.0,2,790.0,3,2,1,6,New/Promising
+C045406,Mumbai,casual,590.0,1,1060.0,1,1,1,3,Needs Attention
+C086127,Hyderabad,casual,622.0,3,4532.0,1,3,4,8,Loyal
+C083844,Mumbai,casual,503.0,1,1144.0,1,1,2,4,Needs Attention
+C084132,Delhi,casual,379.0,3,2278.0,2,3,3,8,Loyal
+C096350,Delhi,casual,374.0,1,948.0,2,1,1,4,Needs Attention
+C004680,Pune,regular,177.0,3,3660.0,3,3,4,10,Champion
+C051405,Hyderabad,regular,35.0,8,8794.53,4,4,4,12,Champion
+C079732,Hyderabad,loyal,30.0,9,10116.0,4,4,4,12,Champion
+C017912,Delhi,casual,348.0,3,2338.0,2,3,3,8,Loyal
+C018532,Pune,casual,568.0,2,2109.0,1,2,3,6,Needs Attention
+C034020,Hyderabad,casual,497.0,2,690.0,1,2,1,4,Needs Attention
+C036966,Delhi,casual,377.0,1,684.0,2,1,1,4,Needs Attention
+C004032,Delhi,casual,547.0,2,1681.0,1,2,2,5,Needs Attention
+C059044,Mumbai,casual,456.0,1,711.0,2,1,1,4,Needs Attention
+C017971,Bangalore,casual,142.0,2,1784.0,3,2,2,7,New/Promising
+C090633,Delhi,casual,401.0,2,1815.4,2,2,2,6,Needs Attention
+C099933,Mumbai,casual,820.0,2,3162.0,1,3,3,7,Loyal
+C094822,Hyderabad,casual,80.0,3,2842.0,4,3,3,10,Champion
+C081671,Mumbai,casual,869.0,1,395.0,1,1,1,3,Needs Attention
+C030455,Pune,casual,60.0,2,1789.0,4,2,2,8,New/Promising
+C071784,Mumbai,regular,205.0,6,4823.0,3,4,4,11,Champion
+C028972,Pune,casual,252.0,2,1880.0,2,2,2,6,Needs Attention
+C086376,Delhi,casual,67.0,2,1442.0,4,2,2,8,New/Promising
+C027319,Hyderabad,casual,143.0,2,1445.0,3,2,2,7,New/Promising
+C040176,Pune,regular,686.0,3,3246.0,1,3,3,7,Loyal
+C018403,Bangalore,casual,558.0,2,2296.51,1,3,3,7,Loyal
+C004160,Pune,casual,138.0,4,3526.0,3,4,3,10,Champion
+C045090,Mumbai,loyal,191.0,25,23367.0,3,4,4,11,Champion
+C038549,Pune,regular,8.0,9,8127.68,4,4,4,12,Champion
+C072436,Pune,casual,351.0,3,3569.0,2,3,4,9,Loyal
+C059700,Delhi,regular,86.0,7,8267.0,4,4,4,12,Champion
+C062001,Delhi,regular,383.0,4,3749.0,2,4,4,10,Loyal
+C014025,Delhi,regular,105.0,6,4230.81,3,4,4,11,Champion
+C098155,Bangalore,casual,582.0,1,441.0,1,1,1,3,Needs Attention
+C021569,Mumbai,loyal,171.0,13,12087.0,3,4,4,11,Champion
+C049085,Mumbai,casual,245.0,2,2188.0,2,2,3,7,Needs Attention
+C021151,Bangalore,casual,1149.0,1,1465.0,1,2,2,5,Needs Attention
+C048913,Bangalore,casual,421.0,1,232.0,2,1,1,4,Needs Attention
+C040538,Pune,casual,85.0,3,3592.0,4,3,4,11,Champion
+C090462,Mumbai,loyal,36.0,18,15958.37,4,4,4,12,Champion
+C062381,Bangalore,casual,530.0,1,861.27,1,1,1,3,Needs Attention
+C052468,Pune,regular,598.0,1,1612.0,1,2,2,5,Needs Attention
+C033410,Delhi,casual,99.0,2,856.0,3,2,1,6,New/Promising
+C060869,Pune,casual,17.0,1,539.0,4,1,1,6,New/Promising
+C001803,Delhi,casual,67.0,2,2826.0,4,3,3,10,Champion
+C015621,Hyderabad,loyal,6.0,15,13980.0,4,4,4,12,Champion
+C075023,Pune,casual,300.0,3,2864.0,2,3,3,8,Loyal
+C071260,Bangalore,casual,315.0,2,1496.0,2,2,2,6,Needs Attention
+C003282,Pune,casual,15.0,2,1752.0,4,2,2,8,New/Promising
+C052826,Hyderabad,casual,78.0,4,2816.0,4,3,3,10,Champion
+C067812,Mumbai,regular,490.0,3,2793.0,1,3,3,7,Loyal
+C046857,Pune,regular,463.0,3,3338.0,2,3,3,8,Loyal
+C033286,Delhi,casual,140.0,2,584.0,3,2,1,6,New/Promising
+C050429,Hyderabad,regular,73.0,4,3419.0,4,4,3,11,Champion
+C051106,Delhi,regular,504.0,2,2827.0,1,3,3,7,Loyal
+C058048,Bangalore,casual,117.0,2,1946.0,3,2,2,7,New/Promising
+C052146,Bangalore,casual,972.0,1,1187.0,1,1,2,4,Needs Attention
+C022938,Bangalore,casual,37.0,3,2547.0,4,3,3,10,Champion
+C013285,Bangalore,casual,427.0,1,399.0,2,1,1,4,Needs Attention
+C039410,Delhi,casual,114.0,4,3967.0,3,4,4,11,Champion
+C072598,Bangalore,regular,260.0,3,1652.9,2,3,2,7,At Risk
+C023196,Bangalore,casual,253.0,3,3587.0,2,3,4,9,Loyal
+C003711,Pune,regular,142.0,8,6774.0,3,4,4,11,Champion
+C081301,Hyderabad,casual,321.0,2,1761.0,2,2,2,6,Needs Attention
+C011191,Delhi,regular,7.0,4,2157.74,4,3,3,10,Champion
+C037182,Delhi,casual,603.0,1,1055.0,1,1,1,3,Needs Attention
+C046003,Pune,regular,15.0,5,4754.66,4,4,4,12,Champion
+C034363,Bangalore,casual,373.0,1,340.0,2,1,1,4,Needs Attention
+C004863,Bangalore,casual,327.0,1,608.0,2,1,1,4,Needs Attention
+C042420,Delhi,casual,145.0,1,1438.0,3,2,2,7,New/Promising
+C098459,Mumbai,casual,814.0,1,454.0,1,1,1,3,Needs Attention
+C073024,Bangalore,casual,435.0,1,1059.0,2,1,1,4,Needs Attention
+C096874,Pune,casual,308.0,1,1080.47,2,1,2,5,Needs Attention
+C005278,Mumbai,casual,498.0,2,1142.0,1,2,2,5,Needs Attention
+C010752,Mumbai,loyal,48.0,20,17833.0,4,4,4,12,Champion
+C064969,Mumbai,casual,142.0,1,1248.0,3,1,2,6,New/Promising
+C002444,Hyderabad,casual,1191.0,1,888.0,1,1,1,3,Needs Attention
+C023466,Hyderabad,regular,736.0,4,2897.57,1,3,3,7,Loyal
+C065336,Delhi,casual,60.0,2,1129.0,4,2,2,8,New/Promising
+C034570,Delhi,regular,284.0,2,1241.0,2,2,2,6,Needs Attention
+C096925,Mumbai,casual,299.0,1,1632.0,2,2,2,6,Needs Attention
+C052559,Mumbai,casual,786.0,1,524.0,1,1,1,3,Needs Attention
+C053589,Bangalore,casual,189.0,2,1304.0,3,2,2,7,New/Promising
+C078476,Pune,casual,112.0,1,712.0,3,1,1,5,New/Promising
+C040108,Bangalore,casual,268.0,2,2673.37,2,3,3,8,Loyal
+C084007,Bangalore,casual,1413.0,1,1360.68,1,2,2,5,Needs Attention
+C009955,Hyderabad,regular,126.0,3,2573.0,3,3,3,9,Champion
+C008066,Pune,casual,84.0,2,2934.0,4,3,3,10,Champion
+C024643,Mumbai,regular,505.0,5,3826.0,1,4,4,9,Loyal
+C056385,Delhi,regular,44.0,3,2353.0,4,3,3,10,Champion
+C035478,Bangalore,casual,707.0,1,390.0,1,1,1,3,Needs Attention
+C012377,Mumbai,casual,118.0,2,1635.0,3,2,2,7,New/Promising
+C001366,Pune,casual,146.0,1,272.0,3,1,1,5,New/Promising
+C083628,Hyderabad,regular,260.0,3,1200.0,2,3,2,7,At Risk
+C037644,Hyderabad,casual,486.0,1,1337.62,1,2,2,5,Needs Attention
+C017116,Delhi,casual,173.0,3,4830.0,3,3,4,10,Champion
+C074581,Bangalore,casual,148.0,1,483.0,3,1,1,5,New/Promising
+C016261,Mumbai,casual,315.0,2,1626.62,2,2,2,6,Needs Attention
+C026870,Delhi,regular,67.0,3,3254.0,4,3,3,10,Champion
+C020481,Bangalore,regular,4.0,3,1111.0,4,3,2,9,Needs Attention
+C095785,Hyderabad,casual,25.0,2,2399.97,4,3,3,10,Champion
+C075621,Delhi,casual,806.0,1,981.0,1,1,1,3,Needs Attention
+C022466,Delhi,casual,314.0,3,2039.0,2,3,3,8,Loyal
+C059391,Mumbai,casual,,1,1540.0,4,2,2,8,New/Promising
+C074532,Pune,casual,439.0,1,1128.0,2,1,2,5,Needs Attention
+C016194,Mumbai,casual,287.0,2,2380.97,2,3,3,8,Loyal
+C090627,Delhi,casual,248.0,3,3266.4,2,3,3,8,Loyal
+C077501,Bangalore,regular,94.0,3,1954.0,3,3,2,8,Needs Attention
+C029724,Delhi,regular,200.0,5,2086.11,3,4,3,10,Champion
+C014511,Hyderabad,casual,375.0,2,529.0,2,2,1,5,Needs Attention
+C024447,Hyderabad,casual,432.0,2,352.0,2,2,1,5,Needs Attention
+C084806,Pune,casual,1107.0,1,1284.28,1,1,2,4,Needs Attention
+C079845,Mumbai,regular,372.0,6,3745.57,2,4,4,10,Loyal
+C025418,Bangalore,regular,926.0,2,1226.0,1,2,2,5,Needs Attention
+C022185,Hyderabad,casual,65.0,2,1987.0,4,2,3,9,New/Promising
+C065837,Bangalore,casual,141.0,3,2084.87,3,3,3,9,Champion
+C099545,Hyderabad,casual,191.0,3,2639.0,3,3,3,9,Champion
+C032901,Pune,loyal,81.0,16,15494.07,4,4,4,12,Champion
+C050412,Pune,casual,302.0,3,2936.47,2,3,3,8,Loyal
+C029524,Pune,regular,53.0,6,4994.0,4,4,4,12,Champion
+C068772,Pune,casual,961.0,2,1245.11,1,2,2,5,Needs Attention
+C080209,Pune,regular,85.0,6,4710.37,4,4,4,12,Champion
+C078227,Bangalore,casual,580.0,2,1480.0,1,2,2,5,Needs Attention
+C018421,Bangalore,casual,401.0,1,619.23,2,1,1,4,Needs Attention
+C023116,Bangalore,casual,172.0,2,2088.0,3,2,3,8,New/Promising
+C070137,Hyderabad,casual,157.0,3,3008.0,3,3,3,9,Champion
+C045307,Mumbai,casual,174.0,1,986.0,3,1,1,5,New/Promising
+C098257,Mumbai,casual,14.0,3,2672.0,4,3,3,10,Champion
+C062101,Bangalore,casual,542.0,3,2591.0,1,3,3,7,Loyal
+C076106,Bangalore,casual,47.0,3,4095.0,4,3,4,11,Champion
+C077094,Pune,casual,11.0,3,3564.0,4,3,4,11,Champion
+C065711,Hyderabad,casual,94.0,3,3083.0,3,3,3,9,Champion
+C003985,Bangalore,regular,1094.0,3,2615.0,1,3,3,7,Loyal
+C048921,Pune,casual,820.0,2,1759.37,1,2,2,5,Needs Attention
+C048244,Mumbai,regular,328.0,5,2690.0,2,4,3,9,Loyal
+C009499,Pune,regular,166.0,6,4705.72,3,4,4,11,Champion
+C040721,Hyderabad,casual,1288.0,1,1162.0,1,1,2,4,Needs Attention
+C004607,Delhi,casual,418.0,3,2457.0,2,3,3,8,Loyal
+C091828,Mumbai,casual,71.0,3,1976.0,4,3,3,10,Champion
+C064761,Delhi,casual,884.0,2,1581.0,1,2,2,5,Needs Attention
+C000247,Hyderabad,casual,328.0,4,4856.47,2,4,4,10,Loyal
+C097229,Bangalore,regular,928.0,4,2513.0,1,3,3,7,Loyal
+C031563,Hyderabad,casual,252.0,2,1259.0,2,2,2,6,Needs Attention
+C061692,Mumbai,casual,68.0,4,3454.11,4,4,3,11,Champion
+C051973,Hyderabad,casual,73.0,3,2809.0,4,3,3,10,Champion
+C088183,Pune,casual,21.0,1,1150.0,4,1,2,7,New/Promising
+C055476,Hyderabad,casual,179.0,3,3184.0,3,3,3,9,Champion
+C063588,Hyderabad,regular,569.0,4,4151.83,1,4,4,9,Loyal
+C086956,Bangalore,casual,463.0,2,1292.0,2,2,2,6,Needs Attention
+C077559,Mumbai,casual,478.0,1,1178.48,1,1,2,4,Needs Attention
+C031917,Mumbai,casual,40.0,4,5468.0,4,4,4,12,Champion
+C023934,Bangalore,casual,149.0,2,640.0,3,2,1,6,New/Promising
+C038297,Delhi,loyal,3.0,17,19067.66,4,4,4,12,Champion
+C011517,Bangalore,regular,128.0,4,3738.0,3,4,4,11,Champion
+C058750,Delhi,casual,501.0,1,1318.0,1,2,2,5,Needs Attention
+C041727,Hyderabad,casual,289.0,5,3015.0,2,4,3,9,Loyal
+C074872,Pune,regular,986.0,3,2311.73,1,3,3,7,Loyal
+C019219,Mumbai,casual,388.0,1,292.0,2,1,1,4,Needs Attention
+C095143,Mumbai,casual,559.0,2,2822.0,1,3,3,7,Loyal
+C084352,Bangalore,casual,94.0,4,4164.0,3,4,4,11,Champion
+C088792,Pune,regular,287.0,3,2362.0,2,3,3,8,Loyal
+C017831,Pune,casual,3.0,2,1178.0,4,2,2,8,New/Promising
+C046836,Delhi,casual,119.0,2,2133.0,3,2,3,8,New/Promising
+C081684,Bangalore,loyal,42.0,19,20833.25,4,4,4,12,Champion
+C033229,Pune,casual,51.0,2,1834.82,4,2,2,8,New/Promising
+C056680,Bangalore,casual,864.0,1,1632.27,1,2,2,5,Needs Attention
+C019292,Pune,casual,426.0,1,331.39,2,1,1,4,Needs Attention
+C063364,Hyderabad,regular,40.0,5,3695.0,4,4,4,12,Champion
+C079949,Mumbai,regular,26.0,4,3790.0,4,4,4,12,Champion
+C038536,Mumbai,casual,482.0,2,732.0,1,2,1,4,Needs Attention
+C055398,Pune,regular,151.0,6,6320.0,3,4,4,11,Champion
+C031077,Bangalore,casual,876.0,4,3954.0,1,4,4,9,Loyal
+C080395,Mumbai,casual,201.0,2,1730.0,3,2,2,7,New/Promising
+C081028,Bangalore,casual,344.0,3,3941.37,2,3,4,9,Loyal
+C069107,Bangalore,regular,19.0,5,5543.0,4,4,4,12,Champion
+C008530,Delhi,casual,68.0,2,1763.0,4,2,2,8,New/Promising
+C063247,Mumbai,casual,270.0,2,3322.0,2,3,3,8,Loyal
+C022094,Hyderabad,casual,29.0,2,2024.0,4,2,3,9,New/Promising
+C069916,Mumbai,casual,113.0,3,3048.0,3,3,3,9,Champion
+C076889,Bangalore,regular,174.0,6,4705.0,3,4,4,11,Champion
+C097033,Pune,casual,36.0,2,1888.0,4,2,2,8,New/Promising
+C037082,Bangalore,casual,1345.0,1,219.0,1,1,1,3,Needs Attention
+C093090,Delhi,casual,112.0,2,1289.0,3,2,2,7,New/Promising
+C010148,Mumbai,casual,538.0,2,2449.57,1,3,3,7,Loyal
+C070938,Bangalore,casual,14.0,2,1290.0,4,2,2,8,New/Promising
+C043784,Delhi,regular,51.0,2,1628.0,4,2,2,8,New/Promising
+C095707,Bangalore,casual,44.0,1,40.0,4,1,1,6,New/Promising
+C066776,Mumbai,casual,174.0,2,1288.0,3,2,2,7,New/Promising
+C070005,Hyderabad,casual,643.0,2,2677.09,1,3,3,7,Loyal
+C079408,Bangalore,casual,749.0,2,2558.0,1,3,3,7,Loyal
+C056610,Delhi,loyal,5.0,10,8165.0,4,4,4,12,Champion
+C016829,Bangalore,casual,374.0,2,2687.0,2,3,3,8,Loyal
+C057264,Delhi,casual,165.0,5,3748.0,3,4,4,11,Champion
+C060639,Pune,loyal,220.0,12,9802.15,3,4,4,11,Champion
+C084241,Delhi,regular,196.0,2,1553.47,3,2,2,7,New/Promising
+C053756,Pune,casual,182.0,3,1749.0,3,3,2,8,Needs Attention
+C003931,Delhi,casual,1192.0,1,1620.0,1,2,2,5,Needs Attention
+C049674,Delhi,casual,250.0,2,1371.0,2,2,2,6,Needs Attention
+C093278,Bangalore,regular,148.0,4,2882.0,3,3,3,9,Champion
+C082380,Delhi,casual,33.0,3,2558.86,4,3,3,10,Champion
+C044713,Bangalore,casual,22.0,4,2974.24,4,3,3,10,Champion
+C026362,Delhi,casual,497.0,1,360.0,1,1,1,3,Needs Attention
+C087312,Bangalore,regular,120.0,7,5720.03,3,4,4,11,Champion
+C046925,Bangalore,casual,337.0,2,1795.0,2,2,2,6,Needs Attention
+C064642,Mumbai,casual,20.0,3,2772.0,4,3,3,10,Champion
+C086023,Hyderabad,regular,34.0,8,7145.0,4,4,4,12,Champion
+C059247,Delhi,casual,23.0,2,1932.0,4,2,2,8,New/Promising
+C021530,Delhi,casual,88.0,1,200.0,4,1,1,6,New/Promising
+C052870,Pune,casual,534.0,1,251.94,1,1,1,3,Needs Attention
+C018615,Mumbai,casual,229.0,2,1979.0,3,2,3,8,New/Promising
+C077332,Bangalore,casual,209.0,2,1620.43,3,2,2,7,New/Promising
+C008418,Bangalore,casual,355.0,3,3908.0,2,3,4,9,Loyal
+C066568,Delhi,casual,425.0,3,1905.0,2,3,2,7,At Risk
+C077821,Mumbai,regular,73.0,8,5678.0,4,4,4,12,Champion
+C079098,Bangalore,casual,827.0,1,1259.0,1,1,2,4,Needs Attention
+C070877,Delhi,casual,982.0,1,482.0,1,1,1,3,Needs Attention
+C046656,Bangalore,casual,61.0,1,549.0,4,1,1,6,New/Promising
+C096253,Pune,casual,69.0,4,3422.0,4,4,3,11,Champion
+C093875,Hyderabad,loyal,34.0,15,13886.73,4,4,4,12,Champion
+C043971,Pune,regular,163.0,6,5693.27,3,4,4,11,Champion
+C031515,Mumbai,regular,389.0,2,1164.0,2,2,2,6,Needs Attention
+C029070,Mumbai,regular,13.0,5,3725.0,4,4,4,12,Champion
+C090908,Mumbai,regular,348.0,2,2279.0,2,3,3,8,Loyal
+C084175,Pune,regular,72.0,5,5395.0,4,4,4,12,Champion
+C055875,Delhi,casual,576.0,1,1143.0,1,1,2,4,Needs Attention
+C053693,Mumbai,casual,1015.0,2,1095.87,1,2,2,5,Needs Attention
+C031847,Hyderabad,casual,417.0,2,1765.0,2,2,2,6,Needs Attention
+C024658,Hyderabad,regular,122.0,7,6924.0,3,4,4,11,Champion
+C089346,Bangalore,regular,30.0,11,7731.0,4,4,4,12,Champion
+C064080,Bangalore,casual,496.0,2,1101.0,1,2,2,5,Needs Attention
+C074606,Mumbai,casual,69.0,2,2573.0,4,3,3,10,Champion
+C081037,Pune,regular,165.0,6,7622.7,3,4,4,11,Champion
+C089428,Hyderabad,casual,133.0,1,776.0,3,1,1,5,New/Promising
+C040032,Hyderabad,casual,998.0,1,1040.0,1,1,1,3,Needs Attention
+C008586,Mumbai,regular,28.0,6,4519.0,4,4,4,12,Champion
+C090408,Pune,casual,772.0,1,328.0,1,1,1,3,Needs Attention
+C075138,Delhi,loyal,12.0,17,16844.47,4,4,4,12,Champion
+C063133,Delhi,casual,134.0,2,2910.0,3,3,3,9,Champion
+C051751,Bangalore,regular,49.0,5,3992.0,4,4,4,12,Champion
+C036272,Delhi,loyal,39.0,14,13564.85,4,4,4,12,Champion
+C015754,Pune,casual,11.0,4,2422.0,4,3,3,10,Champion
+C044236,Pune,casual,313.0,2,772.47,2,2,1,5,Needs Attention
+C096587,Pune,casual,548.0,1,525.0,1,1,1,3,Needs Attention
+C095706,Delhi,regular,317.0,3,1837.0,2,3,2,7,At Risk
+C050023,Bangalore,casual,1042.0,3,1753.0,1,3,2,6,At Risk
+C084335,Bangalore,casual,536.0,2,1554.96,1,2,2,5,Needs Attention
+C058412,Delhi,casual,237.0,3,2686.0,2,3,3,8,Loyal
+C091963,Delhi,casual,724.0,1,1410.0,1,2,2,5,Needs Attention
+C098048,Hyderabad,casual,233.0,2,3639.0,2,3,4,9,Loyal
+C025646,Mumbai,regular,327.0,8,6054.54,2,4,4,10,Loyal
+C014077,Pune,casual,128.0,1,803.0,3,1,1,5,New/Promising
+C052458,Hyderabad,casual,594.0,1,642.0,1,1,1,3,Needs Attention
+C068731,Delhi,casual,61.0,4,3427.0,4,4,3,11,Champion
+C078703,Pune,casual,49.0,3,2127.0,4,3,3,10,Champion
+C014629,Bangalore,casual,207.0,2,2766.0,3,3,3,9,Champion
+C001527,Hyderabad,casual,830.0,1,256.0,1,1,1,3,Needs Attention
+C071030,Mumbai,regular,139.0,4,4131.0,3,4,4,11,Champion
+C005699,Bangalore,regular,396.0,1,742.0,2,1,1,4,Needs Attention
+C053338,Mumbai,casual,,1,2325.0,4,2,3,9,New/Promising
+C099719,Pune,regular,676.0,3,1943.0,1,3,2,6,At Risk
+C070139,Bangalore,regular,14.0,6,6886.0,4,4,4,12,Champion
+C053852,Pune,casual,220.0,2,1695.0,3,2,2,7,New/Promising
+C046070,Delhi,casual,1174.0,2,3151.0,1,3,3,7,Loyal
+C017531,Pune,regular,165.0,6,5786.0,3,4,4,11,Champion
+C037197,Mumbai,casual,1022.0,4,5119.0,1,4,4,9,Loyal
+C024470,Delhi,casual,373.0,2,1818.0,2,2,2,6,Needs Attention
+C071902,Delhi,casual,39.0,6,6141.06,4,4,4,12,Champion
+C037183,Pune,casual,220.0,2,2456.0,3,3,3,9,Champion
+C059497,Bangalore,casual,171.0,5,2880.0,3,4,3,10,Champion
+C097316,Hyderabad,casual,202.0,3,2832.0,3,3,3,9,Champion
+C046867,Delhi,casual,134.0,4,5844.0,3,4,4,11,Champion
+C052298,Hyderabad,regular,165.0,5,4294.0,3,4,4,11,Champion
+C028091,Delhi,regular,46.0,5,3436.06,4,4,3,11,Champion
+C073857,Delhi,casual,20.0,1,1166.0,4,1,2,7,New/Promising
+C084745,Delhi,loyal,28.0,20,17844.1,4,4,4,12,Champion
+C098989,Pune,casual,390.0,2,1636.0,2,2,2,6,Needs Attention
+C066946,Hyderabad,casual,1017.0,1,1076.0,1,1,2,4,Needs Attention
+C014189,Bangalore,casual,17.0,3,3794.0,4,3,4,11,Champion
+C031491,Mumbai,casual,477.0,1,1020.0,1,1,1,3,Needs Attention
+C032856,Hyderabad,casual,13.0,3,2215.0,4,3,3,10,Champion
+C047181,Mumbai,casual,27.0,3,1620.0,4,3,2,9,Needs Attention
+C026587,Hyderabad,casual,195.0,1,1496.0,3,2,2,7,New/Promising
+C034233,Hyderabad,regular,86.0,2,726.0,4,2,1,7,New/Promising
+C078722,Pune,casual,239.0,1,972.0,2,1,1,4,Needs Attention
+C017298,Bangalore,casual,232.0,3,1729.0,3,3,2,8,Needs Attention
+C043305,Mumbai,casual,38.0,2,1832.0,4,2,2,8,New/Promising
+C019756,Hyderabad,casual,467.0,5,4649.48,2,4,4,10,Loyal
+C085321,Pune,casual,305.0,4,3026.24,2,3,3,8,Loyal
+C056432,Bangalore,regular,64.0,1,864.0,4,1,1,6,New/Promising
+C002234,Delhi,loyal,23.0,11,9862.56,4,4,4,12,Champion
+C001938,Hyderabad,casual,85.0,2,1922.0,4,2,2,8,New/Promising
+C079463,Mumbai,casual,362.0,1,672.01,2,1,1,4,Needs Attention
+C000254,Hyderabad,casual,57.0,2,2446.0,4,3,3,10,Champion
+C012530,Bangalore,casual,160.0,2,2286.0,3,3,3,9,Champion
+C093486,Pune,regular,135.0,3,2063.0,3,3,3,9,Champion
+C023680,Pune,loyal,145.0,10,9427.0,3,4,4,11,Champion
+C039236,Bangalore,loyal,44.0,14,12960.87,4,4,4,12,Champion
+C064577,Bangalore,casual,547.0,3,3348.0,1,3,3,7,Loyal
+C065021,Mumbai,regular,55.0,5,3478.0,4,4,3,11,Champion
+C086232,Delhi,casual,129.0,2,3773.0,3,3,4,10,Champion
+C039174,Hyderabad,casual,677.0,2,1318.13,1,2,2,5,Needs Attention
+C012048,Mumbai,casual,67.0,1,677.0,4,1,1,6,New/Promising
+C059805,Pune,casual,317.0,1,1181.0,2,1,2,5,Needs Attention
+C059600,Mumbai,casual,109.0,4,4616.37,3,4,4,11,Champion
+C062370,Bangalore,casual,92.0,1,1311.0,3,1,2,6,New/Promising
+C009130,Pune,casual,344.0,2,558.0,2,2,1,5,Needs Attention
+C027989,Pune,casual,477.0,3,1516.64,1,3,2,6,At Risk
+C091055,Hyderabad,casual,338.0,2,1391.0,2,2,2,6,Needs Attention
+C014590,Pune,casual,80.0,1,390.0,4,1,1,6,New/Promising
+C070255,Hyderabad,casual,325.0,4,2804.0,2,3,3,8,Loyal
+C009452,Bangalore,casual,830.0,1,11.36,1,1,1,3,Needs Attention
+C014324,Bangalore,casual,310.0,2,1229.0,2,2,2,6,Needs Attention
+C056176,Bangalore,casual,120.0,3,3011.0,3,3,3,9,Champion
+C075960,Bangalore,casual,58.0,2,1019.0,4,2,1,7,New/Promising
+C059721,Mumbai,casual,603.0,1,552.0,1,1,1,3,Needs Attention
+C017030,Mumbai,casual,761.0,1,613.0,1,1,1,3,Needs Attention
+C060231,Pune,regular,84.0,3,2717.0,4,3,3,10,Champion
+C040993,Bangalore,regular,49.0,8,8349.0,4,4,4,12,Champion
+C049130,Delhi,casual,123.0,2,1517.0,3,2,2,7,New/Promising
+C035964,Hyderabad,casual,333.0,3,4290.03,2,3,4,9,Loyal
+C066813,Delhi,regular,454.0,4,2741.45,2,3,3,8,Loyal
+C002151,Delhi,casual,759.0,1,1586.0,1,2,2,5,Needs Attention
+C072217,Hyderabad,loyal,19.0,12,8187.0,4,4,4,12,Champion
+C002365,Mumbai,casual,196.0,1,837.0,3,1,1,5,New/Promising
+C041020,Bangalore,casual,111.0,4,3342.01,3,4,3,10,Champion
+C063260,Pune,casual,488.0,2,2886.62,1,3,3,7,Loyal
+C098299,Pune,regular,148.0,5,3671.0,3,4,4,11,Champion
+C058948,Hyderabad,regular,99.0,8,7267.47,3,4,4,11,Champion
+C042008,Hyderabad,casual,49.0,2,775.0,4,2,1,7,New/Promising
+C013292,Delhi,loyal,11.0,11,7618.54,4,4,4,12,Champion
+C061114,Mumbai,casual,287.0,2,1733.0,2,2,2,6,Needs Attention
+C081278,Hyderabad,casual,0.0,1,1237.0,4,1,2,7,New/Promising
+C035800,Hyderabad,regular,224.0,7,5372.0,3,4,4,11,Champion
+C058184,Bangalore,regular,359.0,3,3065.01,2,3,3,8,Loyal
+C095405,Pune,casual,644.0,1,672.58,1,1,1,3,Needs Attention
+C093548,Bangalore,regular,162.0,3,4579.0,3,3,4,10,Champion
+C010629,Mumbai,regular,681.0,5,5424.0,1,4,4,9,Loyal
+C095086,Hyderabad,casual,373.0,1,1626.0,2,2,2,6,Needs Attention
+C089279,Delhi,casual,247.0,1,1122.0,2,1,2,5,Needs Attention
+C065283,Mumbai,casual,1456.0,1,1357.0,1,2,2,5,Needs Attention
+C012422,Pune,regular,369.0,2,823.0,2,2,1,5,Needs Attention
+C005939,Hyderabad,regular,408.0,3,2853.21,2,3,3,8,Loyal
+C029436,Hyderabad,casual,147.0,4,3261.48,3,4,3,10,Champion
+C002647,Mumbai,casual,510.0,3,2033.0,1,3,3,7,Loyal
+C049039,Delhi,casual,132.0,1,543.0,3,1,1,5,New/Promising
+C085943,Hyderabad,regular,50.0,3,2676.0,4,3,3,10,Champion
+C013037,Hyderabad,casual,76.0,2,1917.0,4,2,2,8,New/Promising
+C032272,Bangalore,casual,34.0,2,1895.0,4,2,2,8,New/Promising
+C055693,Bangalore,casual,241.0,3,3662.0,2,3,4,9,Loyal
+C022451,Hyderabad,casual,181.0,3,2207.0,3,3,3,9,Champion
+C000634,Mumbai,casual,533.0,1,326.0,1,1,1,3,Needs Attention
+C010639,Bangalore,regular,255.0,4,3184.22,2,4,3,9,Loyal
+C080390,Bangalore,regular,65.0,4,5213.0,4,4,4,12,Champion
+C000776,Delhi,casual,95.0,2,3048.0,3,3,3,9,Champion
+C016426,Pune,casual,78.0,4,3491.0,4,4,3,11,Champion
+C006985,Pune,loyal,24.0,16,13961.79,4,4,4,12,Champion
+C038011,Mumbai,casual,330.0,1,1119.0,2,1,2,5,Needs Attention
+C079172,Hyderabad,casual,33.0,1,1282.0,4,1,2,7,New/Promising
+C006505,Delhi,casual,995.0,1,602.0,1,1,1,3,Needs Attention
+C049602,Hyderabad,loyal,12.0,21,17583.98,4,4,4,12,Champion
+C005842,Hyderabad,casual,338.0,2,2628.0,2,3,3,8,Loyal
+C092404,Pune,casual,665.0,4,4300.0,1,4,4,9,Loyal
+C078525,Pune,regular,136.0,3,2824.0,3,3,3,9,Champion
+C086580,Bangalore,casual,589.0,1,276.0,1,1,1,3,Needs Attention
+C047031,Pune,casual,126.0,3,3637.0,3,3,4,10,Champion
+C058268,Delhi,casual,392.0,2,1446.0,2,2,2,6,Needs Attention
+C066941,Hyderabad,casual,65.0,1,694.0,4,1,1,6,New/Promising
+C049531,Hyderabad,regular,126.0,6,2479.0,3,4,3,10,Champion
+C019973,Bangalore,casual,358.0,3,4766.0,2,3,4,9,Loyal
+C025994,Delhi,casual,235.0,3,1827.0,2,3,2,7,At Risk
+C064243,Delhi,loyal,36.0,20,15752.0,4,4,4,12,Champion
+C056489,Pune,regular,22.0,7,7552.47,4,4,4,12,Champion
+C087735,Mumbai,casual,16.0,4,2839.47,4,3,3,10,Champion
+C005574,Hyderabad,casual,539.0,2,3294.0,1,3,3,7,Loyal
+C091629,Mumbai,casual,369.0,4,4672.0,2,4,4,10,Loyal
+C089648,Pune,casual,112.0,1,388.0,3,1,1,5,New/Promising
+C086494,Hyderabad,casual,570.0,5,2237.0,1,4,3,8,Loyal
+C096885,Hyderabad,loyal,152.0,12,11285.0,3,4,4,11,Champion
+C082438,Mumbai,casual,55.0,1,497.0,4,1,1,6,New/Promising
+C089829,Bangalore,casual,667.0,1,887.0,1,1,1,3,Needs Attention
+C063120,Pune,loyal,50.0,14,12369.98,4,4,4,12,Champion
+C014621,Delhi,casual,467.0,2,2067.37,2,2,3,7,Needs Attention
+C060914,Hyderabad,regular,248.0,3,1908.53,2,3,2,7,At Risk
+C026573,Bangalore,regular,340.0,5,4243.11,2,4,4,10,Loyal
+C067133,Bangalore,casual,807.0,1,972.0,1,1,1,3,Needs Attention
+C092344,Pune,casual,906.0,1,200.0,1,1,1,3,Needs Attention
+C059785,Mumbai,casual,570.0,1,383.0,1,1,1,3,Needs Attention
+C033994,Mumbai,regular,178.0,4,3366.0,3,4,3,10,Champion
+C080058,Hyderabad,casual,308.0,1,1377.0,2,2,2,6,Needs Attention
+C040131,Pune,regular,42.0,10,8747.74,4,4,4,12,Champion
+C038509,Pune,casual,1368.0,1,956.0,1,1,1,3,Needs Attention
+C092315,Mumbai,casual,679.0,1,1642.0,1,2,2,5,Needs Attention
+C060236,Delhi,loyal,75.0,16,16338.0,4,4,4,12,Champion
+C078242,Pune,casual,141.0,1,1280.0,3,1,2,6,New/Promising
+C002026,Pune,casual,510.0,3,1989.56,1,3,3,7,Loyal
+C094187,Hyderabad,regular,104.0,7,4100.0,3,4,4,11,Champion
+C049074,Delhi,casual,398.0,1,1208.0,2,1,2,5,Needs Attention
+C062457,Bangalore,casual,64.0,3,2936.14,4,3,3,10,Champion
+C024000,Pune,casual,199.0,1,1218.0,3,1,2,6,New/Promising
+C015495,Hyderabad,regular,766.0,3,2274.66,1,3,3,7,Loyal
+C047887,Bangalore,casual,374.0,2,2011.0,2,2,3,7,Needs Attention
+C066313,Delhi,loyal,13.0,12,8582.0,4,4,4,12,Champion
+C041347,Pune,regular,588.0,3,2781.0,1,3,3,7,Loyal
+C025542,Delhi,casual,483.0,3,2257.0,1,3,3,7,Loyal
+C003996,Bangalore,casual,559.0,1,319.0,1,1,1,3,Needs Attention
+C015652,Bangalore,casual,90.0,2,1673.0,3,2,2,7,New/Promising
+C007774,Bangalore,casual,158.0,3,1572.0,3,3,2,8,Needs Attention
+C052961,Pune,casual,106.0,1,271.0,3,1,1,5,New/Promising
+C023068,Delhi,casual,,1,383.0,4,1,1,6,New/Promising
+C034769,Delhi,regular,177.0,4,5049.0,3,4,4,11,Champion
+C046089,Pune,casual,69.0,2,1823.0,4,2,2,8,New/Promising
+C015383,Delhi,regular,416.0,4,4511.0,2,4,4,10,Loyal
+C084090,Mumbai,regular,239.0,3,2060.0,2,3,3,8,Loyal
+C003096,Pune,casual,307.0,5,4214.65,2,4,4,10,Loyal
+C021811,Delhi,regular,352.0,2,1253.01,2,2,2,6,Needs Attention
+C033871,Bangalore,casual,969.0,1,1052.0,1,1,1,3,Needs Attention
+C025085,Hyderabad,regular,70.0,5,5575.0,4,4,4,12,Champion
+C037713,Mumbai,casual,220.0,2,1918.78,3,2,2,7,New/Promising
+C011870,Pune,casual,125.0,4,2577.0,3,3,3,9,Champion
+C098320,Hyderabad,regular,724.0,4,3484.0,1,4,3,8,Loyal
+C094324,Pune,casual,331.0,1,340.0,2,1,1,4,Needs Attention
+C086691,Mumbai,casual,515.0,2,1207.0,1,2,2,5,Needs Attention
+C007943,Bangalore,casual,767.0,1,579.0,1,1,1,3,Needs Attention
+C007942,Hyderabad,casual,1288.0,1,323.0,1,1,1,3,Needs Attention
+C033063,Bangalore,casual,64.0,2,1134.0,4,2,2,8,New/Promising
+C029896,Bangalore,casual,93.0,2,1724.0,3,2,2,7,New/Promising
+C087712,Mumbai,casual,86.0,2,2540.0,4,3,3,10,Champion
+C056212,Bangalore,casual,812.0,1,1638.0,1,2,2,5,Needs Attention
+C079034,Mumbai,casual,1253.0,1,1015.0,1,1,1,3,Needs Attention
+C009868,Hyderabad,casual,391.0,1,661.0,2,1,1,4,Needs Attention
+C065921,Bangalore,casual,948.0,1,1300.0,1,1,2,4,Needs Attention
+C014591,Pune,casual,172.0,1,984.0,3,1,1,5,New/Promising
+C027197,Pune,casual,178.0,2,2231.0,3,3,3,9,Champion
+C027724,Hyderabad,casual,13.0,1,1016.0,4,1,1,6,New/Promising
+C070524,Bangalore,regular,451.0,2,2541.0,2,3,3,8,Loyal
+C031444,Bangalore,casual,444.0,1,564.0,2,1,1,4,Needs Attention
+C031381,Pune,regular,685.0,3,2389.87,1,3,3,7,Loyal
+C096220,Delhi,regular,116.0,4,2074.0,3,3,3,9,Champion
+C050077,Bangalore,casual,460.0,2,1471.0,2,2,2,6,Needs Attention
+C085281,Mumbai,casual,210.0,4,4676.0,3,4,4,11,Champion
+C001485,Bangalore,casual,157.0,1,1414.0,3,2,2,7,New/Promising
+C047376,Delhi,regular,156.0,5,3805.0,3,4,4,11,Champion
+C089700,Hyderabad,regular,19.0,6,4648.74,4,4,4,12,Champion
+C058991,Delhi,casual,53.0,2,2453.0,4,3,3,10,Champion
+C084257,Hyderabad,regular,645.0,5,3643.0,1,4,4,9,Loyal
+C005094,Delhi,casual,28.0,2,1662.0,4,2,2,8,New/Promising
+C046761,Bangalore,casual,207.0,2,1376.0,3,2,2,7,New/Promising
+C068058,Pune,loyal,290.0,13,10731.46,2,4,4,10,Loyal
+C004279,Bangalore,casual,282.0,2,2562.0,2,3,3,8,Loyal
+C032775,Bangalore,casual,583.0,1,2060.0,1,2,3,6,Needs Attention
+C012100,Pune,casual,435.0,2,2802.0,2,3,3,8,Loyal
+C064712,Bangalore,casual,415.0,1,1399.0,2,2,2,6,Needs Attention
+C089801,Pune,regular,305.0,5,5927.0,2,4,4,10,Loyal
+C043088,Pune,casual,200.0,1,1306.0,3,1,2,6,New/Promising
+C067266,Delhi,regular,193.0,6,7735.62,3,4,4,11,Champion
+C012614,Mumbai,casual,204.0,2,1563.0,3,2,2,7,New/Promising
+C024885,Bangalore,casual,286.0,4,3933.0,2,4,4,10,Loyal
+C051831,Mumbai,casual,506.0,2,1268.0,1,2,2,5,Needs Attention
+C060622,Hyderabad,casual,180.0,3,2508.0,3,3,3,9,Champion
+C031680,Delhi,casual,261.0,1,988.0,2,1,1,4,Needs Attention
+C065501,Mumbai,casual,475.0,3,2141.13,1,3,3,7,Loyal
+C077670,Mumbai,regular,90.0,7,4516.63,4,4,4,12,Champion
+C023933,Pune,casual,238.0,3,1834.0,2,3,2,7,At Risk
+C019492,Mumbai,regular,315.0,6,4341.89,2,4,4,10,Loyal
+C011083,Mumbai,casual,66.0,3,1362.0,4,3,2,9,Needs Attention
+C079948,Mumbai,regular,466.0,5,3714.0,2,4,4,10,Loyal
+C019014,Delhi,casual,376.0,3,2717.0,2,3,3,8,Loyal
+C067190,Delhi,casual,804.0,1,2208.0,1,2,3,6,Needs Attention
+C076133,Bangalore,casual,78.0,4,2045.0,4,3,3,10,Champion
+C084255,Bangalore,casual,409.0,2,2499.0,2,3,3,8,Loyal
+C052629,Pune,casual,267.0,2,2036.0,2,2,3,7,Needs Attention
+C035310,Mumbai,casual,444.0,2,1016.0,2,2,1,5,Needs Attention
+C044229,Mumbai,casual,1009.0,2,1054.03,1,2,1,4,Needs Attention
+C018817,Mumbai,casual,374.0,4,4618.0,2,4,4,10,Loyal
+C046509,Mumbai,casual,101.0,2,2213.0,3,2,3,8,New/Promising
+C035143,Bangalore,casual,847.0,1,812.0,1,1,1,3,Needs Attention
+C019408,Delhi,casual,41.0,2,2611.0,4,3,3,10,Champion
+C063367,Delhi,casual,373.0,2,1468.0,2,2,2,6,Needs Attention
+C078607,Delhi,regular,24.0,5,3530.0,4,4,3,11,Champion
+C041459,Mumbai,regular,146.0,5,4321.43,3,4,4,11,Champion
+C030103,Bangalore,casual,234.0,2,2042.0,2,2,3,7,Needs Attention
+C051080,Mumbai,casual,300.0,1,998.0,2,1,1,4,Needs Attention
+C023043,Delhi,regular,358.0,3,3387.68,2,3,3,8,Loyal
+C072573,Pune,casual,259.0,1,756.0,2,1,1,4,Needs Attention
+C049089,Mumbai,casual,447.0,1,806.0,2,1,1,4,Needs Attention
+C043436,Hyderabad,loyal,36.0,14,14379.94,4,4,4,12,Champion
+C001530,Mumbai,casual,65.0,7,7080.64,4,4,4,12,Champion
+C028284,Bangalore,casual,397.0,1,1274.68,2,1,2,5,Needs Attention
+C013950,Bangalore,loyal,207.0,14,12435.97,3,4,4,11,Champion
+C090658,Bangalore,regular,570.0,1,1409.0,1,2,2,5,Needs Attention
+C007295,Bangalore,regular,121.0,4,3829.0,3,4,4,11,Champion
+C088610,Mumbai,regular,44.0,6,4822.76,4,4,4,12,Champion
+C017394,Hyderabad,casual,270.0,3,4097.0,2,3,4,9,Loyal
+C084719,Hyderabad,casual,786.0,2,1468.0,1,2,2,5,Needs Attention
+C036432,Hyderabad,casual,271.0,3,2414.0,2,3,3,8,Loyal
+C002917,Mumbai,casual,78.0,4,2921.43,4,3,3,10,Champion
+C090918,Mumbai,casual,241.0,4,2824.47,2,3,3,8,Loyal
+C077255,Bangalore,casual,2.0,1,490.0,4,1,1,6,New/Promising
+C000609,Pune,casual,169.0,2,3729.0,3,3,4,10,Champion
+C062220,Delhi,casual,776.0,2,2004.61,1,2,3,6,Needs Attention
+C046086,Pune,regular,34.0,6,4232.0,4,4,4,12,Champion
+C045779,Hyderabad,casual,48.0,2,512.28,4,2,1,7,New/Promising
+C075824,Delhi,regular,207.0,4,4224.0,3,4,4,11,Champion
+C092180,Pune,casual,24.0,5,6022.88,4,4,4,12,Champion
+C078204,Mumbai,casual,620.0,2,1580.46,1,2,2,5,Needs Attention
+C031274,Delhi,loyal,28.0,7,7077.0,4,4,4,12,Champion
+C050906,Bangalore,regular,166.0,4,2217.0,3,3,3,9,Champion
+C007431,Delhi,casual,482.0,1,772.0,1,1,1,3,Needs Attention
+C036642,Mumbai,casual,1449.0,2,2650.0,1,3,3,7,Loyal
+C083969,Mumbai,regular,241.0,9,6513.03,2,4,4,10,Loyal
+C020518,Bangalore,casual,104.0,3,3233.0,3,3,3,9,Champion
+C037740,Hyderabad,loyal,46.0,16,16201.98,4,4,4,12,Champion
+C068496,Pune,casual,303.0,3,2888.0,2,3,3,8,Loyal
+C044053,Hyderabad,casual,25.0,3,3880.97,4,3,4,11,Champion
+C041105,Mumbai,casual,146.0,4,1673.0,3,3,2,8,Needs Attention
+C067096,Mumbai,loyal,46.0,24,19048.46,4,4,4,12,Champion
+C070586,Delhi,casual,212.0,2,1418.0,3,2,2,7,New/Promising
+C021524,Hyderabad,casual,1080.0,1,717.0,1,1,1,3,Needs Attention
+C043763,Delhi,casual,356.0,1,258.0,2,1,1,4,Needs Attention
+C035554,Mumbai,casual,8.0,2,2700.01,4,3,3,10,Champion
+C023294,Pune,casual,299.0,2,2636.0,2,3,3,8,Loyal
+C006591,Mumbai,casual,46.0,2,1590.0,4,2,2,8,New/Promising
+C015552,Pune,regular,125.0,4,4431.0,3,4,4,11,Champion
+C071348,Bangalore,loyal,89.0,12,7693.0,4,4,4,12,Champion
+C046634,Mumbai,loyal,50.0,16,13207.0,4,4,4,12,Champion
+C056084,Delhi,regular,70.0,6,4595.74,4,4,4,12,Champion
+C005687,Pune,casual,298.0,1,559.0,2,1,1,4,Needs Attention
+C007386,Bangalore,casual,912.0,2,1178.96,1,2,2,5,Needs Attention
+C048781,Pune,casual,119.0,2,2944.47,3,3,3,9,Champion
+C048730,Hyderabad,casual,990.0,1,145.0,1,1,1,3,Needs Attention
+C075987,Mumbai,loyal,139.0,10,7018.11,3,4,4,11,Champion
+C091209,Bangalore,casual,39.0,2,1336.0,4,2,2,8,New/Promising
+C066743,Delhi,casual,436.0,1,730.0,2,1,1,4,Needs Attention
+C014716,Hyderabad,regular,421.0,5,4516.01,2,4,4,10,Loyal
+C022115,Mumbai,casual,3.0,3,1063.0,4,3,1,8,Needs Attention
+C051972,Delhi,casual,139.0,5,3703.0,3,4,4,11,Champion
+C095127,Hyderabad,loyal,33.0,25,22801.0,4,4,4,12,Champion
+C074438,Hyderabad,regular,337.0,4,2801.62,2,3,3,8,Loyal
+C092381,Bangalore,casual,1460.0,1,848.0,1,1,1,3,Needs Attention
+C085775,Delhi,casual,188.0,1,624.0,3,1,1,5,New/Promising
+C075188,Hyderabad,casual,166.0,3,1198.0,3,3,2,8,Needs Attention
+C050450,Delhi,regular,281.0,5,3434.0,2,4,3,9,Loyal
+C085241,Bangalore,regular,242.0,2,2005.0,2,2,3,7,Needs Attention
+C075582,Mumbai,casual,137.0,4,4296.95,3,4,4,11,Champion
+C087557,Mumbai,casual,30.0,4,4781.11,4,4,4,12,Champion
+C012022,Bangalore,casual,668.0,1,316.0,1,1,1,3,Needs Attention
+C035583,Bangalore,casual,510.0,3,3795.4,1,3,4,8,Loyal
+C074688,Bangalore,casual,689.0,1,925.0,1,1,1,3,Needs Attention
+C011327,Delhi,regular,548.0,3,2413.0,1,3,3,7,Loyal
+C019785,Hyderabad,casual,525.0,1,1153.0,1,1,2,4,Needs Attention
+C050516,Bangalore,loyal,3.0,15,11929.49,4,4,4,12,Champion
+C014367,Hyderabad,regular,708.0,1,330.0,1,1,1,3,Needs Attention
+C034540,Hyderabad,regular,356.0,4,2140.0,2,3,3,8,Loyal
+C043899,Mumbai,regular,445.0,6,7810.82,2,4,4,10,Loyal
+C091345,Delhi,regular,684.0,4,3861.0,1,4,4,9,Loyal
+C057301,Delhi,casual,612.0,1,976.0,1,1,1,3,Needs Attention
+C020666,Bangalore,casual,212.0,3,1852.0,3,3,2,8,Needs Attention
+C020916,Mumbai,regular,7.0,10,10264.0,4,4,4,12,Champion
+C003990,Pune,regular,26.0,7,6394.0,4,4,4,12,Champion
+C025290,Bangalore,casual,748.0,1,1749.0,1,2,2,5,Needs Attention
+C053842,Mumbai,casual,93.0,1,952.0,3,1,1,5,New/Promising
+C050080,Mumbai,casual,13.0,1,1423.0,4,2,2,8,New/Promising
+C096346,Pune,casual,68.0,3,2405.0,4,3,3,10,Champion
+C099389,Hyderabad,casual,790.0,2,1720.0,1,2,2,5,Needs Attention
+C044453,Delhi,loyal,41.0,12,6847.62,4,4,4,12,Champion
+C014426,Delhi,regular,249.0,2,694.0,2,2,1,5,Needs Attention
+C036208,Delhi,casual,228.0,2,1849.0,3,2,2,7,New/Promising
+C077603,Mumbai,casual,23.0,1,1578.0,4,2,2,8,New/Promising
+C066372,Hyderabad,casual,121.0,4,4825.39,3,4,4,11,Champion
+C092118,Hyderabad,casual,570.0,2,1731.84,1,2,2,5,Needs Attention
+C021516,Delhi,casual,421.0,1,730.0,2,1,1,4,Needs Attention
+C078865,Delhi,regular,87.0,1,320.0,4,1,1,6,New/Promising
+C000387,Pune,regular,7.0,7,5343.0,4,4,4,12,Champion
+C062771,Hyderabad,casual,521.0,1,1328.0,1,2,2,5,Needs Attention
+C081389,Bangalore,regular,1198.0,3,1145.32,1,3,2,6,At Risk
+C094512,Mumbai,regular,622.0,2,1774.0,1,2,2,5,Needs Attention
+C078053,Hyderabad,casual,524.0,2,1812.0,1,2,2,5,Needs Attention
+C059854,Delhi,casual,414.0,2,1362.09,2,2,2,6,Needs Attention
+C056287,Bangalore,casual,600.0,1,916.0,1,1,1,3,Needs Attention
+C055578,Hyderabad,regular,239.0,7,6190.29,2,4,4,10,Loyal
+C040615,Delhi,casual,472.0,1,172.0,2,1,1,4,Needs Attention
+C070623,Mumbai,regular,240.0,8,5653.0,2,4,4,10,Loyal
+C049907,Mumbai,regular,103.0,3,3379.8,3,3,3,9,Champion
+C035076,Pune,casual,605.0,2,796.0,1,2,1,4,Needs Attention
+C045353,Bangalore,casual,890.0,1,1424.0,1,2,2,5,Needs Attention
+C024388,Bangalore,casual,154.0,1,1118.0,3,1,2,6,New/Promising
+C077521,Pune,casual,338.0,1,957.24,2,1,1,4,Needs Attention
+C024492,Delhi,casual,352.0,2,747.01,2,2,1,5,Needs Attention
+C070148,Delhi,casual,79.0,2,1596.0,4,2,2,8,New/Promising
+C063132,Delhi,casual,193.0,3,2725.54,3,3,3,9,Champion
+C037656,Bangalore,casual,326.0,1,310.47,2,1,1,4,Needs Attention
+C059896,Hyderabad,casual,87.0,3,2868.0,4,3,3,10,Champion
+C096258,Pune,casual,15.0,3,4410.0,4,3,4,11,Champion
+C055448,Bangalore,regular,88.0,5,5166.0,4,4,4,12,Champion
+C086672,Bangalore,casual,475.0,2,2563.96,1,3,3,7,Loyal
+C023476,Delhi,casual,281.0,3,1904.0,2,3,2,7,At Risk
+C056738,Pune,regular,34.0,6,6087.87,4,4,4,12,Champion
+C064597,Hyderabad,casual,118.0,2,1731.0,3,2,2,7,New/Promising
+C098808,Hyderabad,casual,16.0,2,3044.0,4,3,3,10,Champion
+C041626,Pune,casual,30.0,1,464.0,4,1,1,6,New/Promising
+C084661,Delhi,regular,60.0,3,3535.0,4,3,3,10,Champion
+C093317,Mumbai,casual,196.0,1,1006.0,3,1,1,5,New/Promising
+C005277,Hyderabad,casual,477.0,1,917.29,1,1,1,3,Needs Attention
+C034047,Hyderabad,regular,174.0,2,1691.0,3,2,2,7,New/Promising
+C032804,Bangalore,regular,302.0,7,5625.5,2,4,4,10,Loyal
+C023924,Pune,casual,321.0,3,2634.31,2,3,3,8,Loyal
+C084680,Pune,casual,167.0,1,252.0,3,1,1,5,New/Promising
+C086479,Bangalore,regular,76.0,4,4309.0,4,4,4,12,Champion
+C020638,Delhi,casual,340.0,2,2051.0,2,2,3,7,Needs Attention
+C089536,Hyderabad,casual,58.0,2,1138.0,4,2,2,8,New/Promising
+C064287,Bangalore,casual,28.0,2,2279.01,4,3,3,10,Champion
+C036659,Hyderabad,casual,247.0,2,2293.0,2,3,3,8,Loyal
+C079066,Hyderabad,casual,23.0,2,1507.0,4,2,2,8,New/Promising
+C078975,Mumbai,casual,150.0,5,5503.53,3,4,4,11,Champion
+C077359,Mumbai,regular,115.0,4,4506.37,3,4,4,11,Champion
+C036198,Bangalore,regular,121.0,3,2103.0,3,3,3,9,Champion
+C005249,Bangalore,casual,781.0,1,360.0,1,1,1,3,Needs Attention
+C039600,Bangalore,regular,89.0,3,1543.37,4,3,2,9,Needs Attention
+C066163,Pune,casual,1042.0,1,1134.0,1,1,2,4,Needs Attention
+C071835,Hyderabad,casual,389.0,3,3772.0,2,3,4,9,Loyal
+C012399,Delhi,loyal,52.0,11,8712.0,4,4,4,12,Champion
+C092677,Delhi,casual,1069.0,1,1582.0,1,2,2,5,Needs Attention
+C070985,Hyderabad,casual,,1,1030.0,4,1,1,6,New/Promising
+C021248,Hyderabad,regular,39.0,4,3085.0,4,3,3,10,Champion
+C083775,Hyderabad,casual,129.0,4,4072.0,3,4,4,11,Champion
+C086141,Hyderabad,casual,231.0,2,1065.0,3,2,1,6,New/Promising
+C048446,Delhi,casual,369.0,1,1244.0,2,1,2,5,Needs Attention
+C061125,Mumbai,casual,83.0,1,1896.0,4,2,2,8,New/Promising
+C090553,Hyderabad,casual,630.0,3,1826.0,1,3,2,6,At Risk
+C005362,Bangalore,casual,625.0,1,271.0,1,1,1,3,Needs Attention
+C019517,Delhi,casual,150.0,3,2601.62,3,3,3,9,Champion
+C050648,Pune,casual,407.0,1,1040.0,2,1,1,4,Needs Attention
+C030707,Delhi,casual,1179.0,1,1025.0,1,1,1,3,Needs Attention
+C059240,Pune,casual,38.0,1,616.0,4,1,1,6,New/Promising
+C032194,Pune,casual,80.0,2,1536.0,4,2,2,8,New/Promising
+C025660,Mumbai,regular,187.0,3,1667.0,3,3,2,8,Needs Attention
+C091880,Delhi,loyal,35.0,18,12201.5,4,4,4,12,Champion
+C013103,Delhi,casual,59.0,1,990.0,4,1,1,6,New/Promising
+C049499,Delhi,regular,298.0,5,4824.82,2,4,4,10,Loyal
+C071079,Hyderabad,casual,79.0,2,2327.0,4,3,3,10,Champion
+C081302,Bangalore,casual,597.0,1,195.0,1,1,1,3,Needs Attention
+C005376,Mumbai,casual,54.0,1,400.0,4,1,1,6,New/Promising
+C020200,Pune,casual,26.0,2,2167.0,4,2,3,9,New/Promising
+C022873,Bangalore,casual,169.0,1,366.0,3,1,1,5,New/Promising
+C014913,Pune,casual,37.0,2,969.0,4,2,1,7,New/Promising
+C073055,Bangalore,casual,40.0,3,2209.0,4,3,3,10,Champion
+C084126,Mumbai,casual,15.0,2,1711.0,4,2,2,8,New/Promising
+C016421,Bangalore,casual,793.0,1,614.0,1,1,1,3,Needs Attention
+C072409,Pune,casual,33.0,5,4552.2,4,4,4,12,Champion
+C077997,Mumbai,casual,95.0,2,1753.0,3,2,2,7,New/Promising
+C046681,Pune,casual,795.0,1,997.0,1,1,1,3,Needs Attention
+C078060,Bangalore,casual,9.0,1,825.0,4,1,1,6,New/Promising
+C018881,Pune,casual,629.0,2,1977.0,1,2,3,6,Needs Attention
+C006879,Bangalore,casual,725.0,1,1736.0,1,2,2,5,Needs Attention
+C082142,Bangalore,regular,132.0,3,3048.0,3,3,3,9,Champion
+C051311,Mumbai,regular,303.0,3,979.47,2,3,1,6,At Risk
+C073467,Pune,casual,266.0,2,1838.22,2,2,2,6,Needs Attention
+C086796,Bangalore,casual,539.0,1,1192.0,1,1,2,4,Needs Attention
+C014364,Delhi,casual,451.0,3,2164.0,2,3,3,8,Loyal
+C023579,Mumbai,regular,9.0,8,8212.0,4,4,4,12,Champion
+C030401,Bangalore,casual,42.0,2,1482.0,4,2,2,8,New/Promising
+C078258,Bangalore,casual,323.0,2,2224.0,2,3,3,8,Loyal
+C017591,Delhi,regular,935.0,2,977.0,1,2,1,4,Needs Attention
+C085573,Mumbai,casual,609.0,1,504.0,1,1,1,3,Needs Attention
+C033057,Delhi,regular,16.0,4,2155.0,4,3,3,10,Champion
+C055154,Hyderabad,casual,313.0,2,1508.0,2,2,2,6,Needs Attention
+C056960,Delhi,casual,60.0,1,424.0,4,1,1,6,New/Promising
+C032108,Bangalore,casual,191.0,2,1739.0,3,2,2,7,New/Promising
+C087258,Bangalore,regular,490.0,2,1876.57,1,2,2,5,Needs Attention
+C010479,Pune,loyal,75.0,17,16555.01,4,4,4,12,Champion
+C070337,Mumbai,regular,338.0,4,4645.69,2,4,4,10,Loyal
+C035986,Bangalore,casual,42.0,3,2314.0,4,3,3,10,Champion
+C023356,Pune,regular,315.0,6,3612.94,2,4,4,10,Loyal
+C056150,Delhi,casual,150.0,1,1039.0,3,1,1,5,New/Promising
+C061441,Delhi,casual,12.0,3,1972.0,4,3,2,9,Needs Attention
+C098512,Pune,loyal,105.0,24,21147.68,3,4,4,11,Champion
+C088468,Pune,casual,525.0,1,1250.0,1,1,2,4,Needs Attention
+C079532,Pune,casual,323.0,1,1306.0,2,1,2,5,Needs Attention
+C028775,Hyderabad,casual,979.0,1,1842.0,1,2,2,5,Needs Attention
+C031379,Mumbai,casual,81.0,3,1868.0,4,3,2,9,Needs Attention
+C098253,Delhi,casual,511.0,2,891.0,1,2,1,4,Needs Attention
+C070701,Hyderabad,casual,584.0,2,1945.42,1,2,2,5,Needs Attention
+C079941,Mumbai,casual,35.0,2,2781.0,4,3,3,10,Champion
+C036694,Mumbai,regular,19.0,5,4962.0,4,4,4,12,Champion
+C043455,Bangalore,casual,540.0,1,259.0,1,1,1,3,Needs Attention
+C032755,Mumbai,casual,30.0,3,2459.43,4,3,3,10,Champion
+C099824,Hyderabad,casual,97.0,2,952.0,3,2,1,6,New/Promising
+C023872,Hyderabad,casual,586.0,1,510.0,1,1,1,3,Needs Attention
+C057910,Pune,casual,323.0,1,854.47,2,1,1,4,Needs Attention
+C072775,Hyderabad,casual,523.0,2,1241.62,1,2,2,5,Needs Attention
+C033434,Pune,casual,694.0,3,2413.82,1,3,3,7,Loyal
+C004162,Delhi,casual,511.0,2,2811.0,1,3,3,7,Loyal
+C048340,Delhi,regular,80.0,3,1916.22,4,3,2,9,Needs Attention
+C058741,Mumbai,casual,1054.0,2,1730.0,1,2,2,5,Needs Attention
+C078265,Delhi,casual,471.0,2,2498.0,2,3,3,8,Loyal
+C086750,Mumbai,casual,95.0,1,262.0,3,1,1,5,New/Promising
+C004402,Pune,casual,714.0,2,1689.0,1,2,2,5,Needs Attention
+C050556,Pune,casual,316.0,2,1446.0,2,2,2,6,Needs Attention
+C066286,Mumbai,casual,609.0,2,1421.37,1,2,2,5,Needs Attention
+C086800,Mumbai,casual,247.0,1,1618.0,2,2,2,6,Needs Attention
+C099230,Delhi,casual,201.0,4,4144.0,3,4,4,11,Champion
+C031503,Hyderabad,casual,183.0,2,2807.0,3,3,3,9,Champion
+C037230,Pune,casual,223.0,1,533.0,3,1,1,5,New/Promising
+C094766,Mumbai,casual,295.0,4,3186.0,2,4,3,9,Loyal
+C022838,Mumbai,regular,41.0,4,4543.0,4,4,4,12,Champion
+C044395,Pune,loyal,20.0,17,11094.5,4,4,4,12,Champion
+C071920,Pune,casual,274.0,1,1666.47,2,2,2,6,Needs Attention
+C083243,Mumbai,casual,836.0,1,1926.0,1,2,2,5,Needs Attention
+C060797,Pune,casual,510.0,2,1688.0,1,2,2,5,Needs Attention
+C089867,Hyderabad,casual,43.0,3,3343.0,4,3,3,10,Champion
+C015006,Pune,loyal,11.0,17,15627.68,4,4,4,12,Champion
+C050306,Delhi,casual,346.0,3,4160.0,2,3,4,9,Loyal
+C087630,Pune,regular,11.0,7,7309.0,4,4,4,12,Champion
+C044753,Bangalore,loyal,47.0,18,15070.84,4,4,4,12,Champion
+C055467,Pune,casual,162.0,2,1058.0,3,2,1,6,New/Promising
+C054067,Hyderabad,casual,229.0,2,1116.0,3,2,2,7,New/Promising
+C067481,Mumbai,casual,83.0,2,1590.0,4,2,2,8,New/Promising
+C062376,Bangalore,regular,175.0,4,2396.0,3,3,3,9,Champion
+C075681,Mumbai,casual,24.0,1,1352.0,4,2,2,8,New/Promising
+C043381,Hyderabad,casual,161.0,2,1836.0,3,2,2,7,New/Promising
+C083774,Pune,regular,116.0,5,4501.0,3,4,4,11,Champion
+C069199,Mumbai,casual,626.0,1,1217.0,1,1,2,4,Needs Attention
+C017515,Bangalore,regular,17.0,5,4094.0,4,4,4,12,Champion
+C041576,Bangalore,casual,1182.0,1,1265.0,1,1,2,4,Needs Attention
+C040222,Mumbai,casual,4.0,2,727.0,4,2,1,7,New/Promising
+C020368,Pune,regular,148.0,4,4040.0,3,4,4,11,Champion
+C033781,Delhi,regular,47.0,4,3880.24,4,4,4,12,Champion
+C089233,Delhi,casual,40.0,1,1303.0,4,1,2,7,New/Promising
+C080980,Pune,casual,1519.0,1,821.49,1,1,1,3,Needs Attention
+C015871,Bangalore,casual,201.0,2,1605.0,3,2,2,7,New/Promising
+C020157,Pune,casual,35.0,5,3312.75,4,4,3,11,Champion
+C028920,Pune,casual,307.0,5,4569.85,2,4,4,10,Loyal
+C047356,Bangalore,regular,252.0,7,7482.0,2,4,4,10,Loyal
+C074446,Delhi,casual,737.0,1,666.22,1,1,1,3,Needs Attention
+C060269,Bangalore,regular,69.0,4,4066.0,4,4,4,12,Champion
+C084968,Bangalore,loyal,27.0,13,10561.0,4,4,4,12,Champion
+C033992,Mumbai,loyal,26.0,19,17927.57,4,4,4,12,Champion
+C043070,Hyderabad,casual,311.0,2,605.0,2,2,1,5,Needs Attention
+C047183,Hyderabad,regular,76.0,4,3368.0,4,4,3,11,Champion
+C043854,Hyderabad,casual,494.0,1,1018.0,1,1,1,3,Needs Attention
+C091201,Mumbai,regular,324.0,5,2956.0,2,4,3,9,Loyal
+C003139,Bangalore,regular,325.0,5,3913.47,2,4,4,10,Loyal
+C019614,Pune,casual,400.0,1,990.0,2,1,1,4,Needs Attention
+C073958,Delhi,casual,1186.0,2,1653.0,1,2,2,5,Needs Attention
+C080047,Bangalore,casual,198.0,2,1268.0,3,2,2,7,New/Promising
+C072140,Delhi,casual,740.0,2,1353.82,1,2,2,5,Needs Attention
+C024062,Delhi,casual,47.0,2,1948.0,4,2,2,8,New/Promising
+C029875,Delhi,regular,394.0,1,342.0,2,1,1,4,Needs Attention
+C054580,Hyderabad,regular,77.0,7,5557.86,4,4,4,12,Champion
+C006842,Pune,casual,264.0,1,558.0,2,1,1,4,Needs Attention
+C031541,Delhi,loyal,16.0,22,20163.57,4,4,4,12,Champion
+C039709,Delhi,regular,9.0,9,8103.57,4,4,4,12,Champion
+C098841,Bangalore,casual,228.0,1,762.0,3,1,1,5,New/Promising
+C055250,Pune,loyal,64.0,18,20720.94,4,4,4,12,Champion
+C047281,Mumbai,casual,43.0,3,1674.0,4,3,2,9,Needs Attention
+C012302,Bangalore,loyal,411.0,9,8916.0,2,4,4,10,Loyal
+C005550,Mumbai,loyal,299.0,12,9009.52,2,4,4,10,Loyal
+C097512,Bangalore,casual,229.0,1,534.0,3,1,1,5,New/Promising
+C000251,Delhi,casual,493.0,1,315.37,1,1,1,3,Needs Attention
+C006526,Bangalore,casual,67.0,1,466.0,4,1,1,6,New/Promising
+C069209,Bangalore,casual,3.0,1,539.0,4,1,1,6,New/Promising
+C091110,Pune,loyal,11.0,11,9243.0,4,4,4,12,Champion
+C087723,Pune,regular,46.0,7,6007.0,4,4,4,12,Champion
+C032704,Mumbai,casual,319.0,3,3255.0,2,3,3,8,Loyal
+C076049,Hyderabad,casual,173.0,2,1874.0,3,2,2,7,New/Promising
+C086448,Delhi,casual,63.0,6,5119.0,4,4,4,12,Champion
+C011282,Delhi,casual,455.0,2,1927.0,2,2,2,6,Needs Attention
+C054000,Pune,loyal,65.0,21,16097.37,4,4,4,12,Champion
+C073719,Delhi,casual,188.0,1,312.0,3,1,1,5,New/Promising
+C060648,Hyderabad,regular,53.0,3,3405.0,4,3,3,10,Champion
+C037793,Hyderabad,casual,220.0,1,996.0,3,1,1,5,New/Promising
+C039377,Delhi,casual,14.0,2,858.87,4,2,1,7,New/Promising
+C045094,Hyderabad,regular,18.0,2,1601.59,4,2,2,8,New/Promising
+C020640,Mumbai,regular,144.0,3,535.67,3,3,1,7,Needs Attention
+C063774,Mumbai,casual,179.0,4,5337.0,3,4,4,11,Champion
+C029255,Pune,regular,10.0,3,3130.0,4,3,3,10,Champion
+C070634,Delhi,casual,55.0,3,3603.0,4,3,4,11,Champion
+C086756,Delhi,casual,150.0,3,3606.0,3,3,4,10,Champion
+C028489,Pune,casual,43.0,2,2003.0,4,2,3,9,New/Promising
+C016034,Hyderabad,casual,760.0,2,1802.0,1,2,2,5,Needs Attention
+C019801,Pune,regular,362.0,3,1985.01,2,3,3,8,Loyal
+C016770,Hyderabad,casual,290.0,1,1068.0,2,1,1,4,Needs Attention
+C010910,Pune,casual,146.0,3,2912.0,3,3,3,9,Champion
+C095078,Delhi,regular,338.0,2,2019.0,2,2,3,7,Needs Attention
+C045703,Delhi,casual,594.0,2,3266.0,1,3,3,7,Loyal
+C029688,Hyderabad,casual,587.0,1,213.0,1,1,1,3,Needs Attention
+C006397,Delhi,regular,333.0,2,1955.48,2,2,2,6,Needs Attention
+C097597,Mumbai,casual,114.0,1,1864.0,3,2,2,7,New/Promising
+C084465,Delhi,casual,178.0,2,2140.0,3,2,3,8,New/Promising
+C021375,Bangalore,casual,175.0,3,2219.84,3,3,3,9,Champion
+C059926,Bangalore,casual,469.0,1,708.48,2,1,1,4,Needs Attention
+C088708,Mumbai,casual,987.0,1,1285.0,1,1,2,4,Needs Attention
+C037234,Hyderabad,casual,313.0,2,2162.47,2,2,3,7,Needs Attention
+C006332,Pune,casual,118.0,1,1188.0,3,1,2,6,New/Promising
+C024921,Bangalore,regular,57.0,6,6616.0,4,4,4,12,Champion
+C084316,Hyderabad,casual,250.0,3,1122.0,2,3,2,7,At Risk
+C012766,Pune,casual,219.0,2,3036.0,3,3,3,9,Champion
+C007001,Delhi,casual,198.0,3,4274.0,3,3,4,10,Champion
+C043559,Mumbai,casual,270.0,2,1291.0,2,2,2,6,Needs Attention
+C001957,Pune,casual,157.0,2,2023.0,3,2,3,8,New/Promising
+C000518,Pune,casual,336.0,1,342.0,2,1,1,4,Needs Attention
+C063188,Mumbai,casual,51.0,2,2012.0,4,2,3,9,New/Promising
+C032743,Pune,casual,563.0,1,1224.0,1,1,2,4,Needs Attention
+C013104,Hyderabad,casual,900.0,2,1767.0,1,2,2,5,Needs Attention
+C072500,Delhi,casual,301.0,3,2986.47,2,3,3,8,Loyal
+C088298,Delhi,casual,271.0,3,2163.47,2,3,3,8,Loyal
+C095005,Bangalore,regular,111.0,2,2469.0,3,3,3,9,Champion
+C049121,Hyderabad,regular,26.0,6,6164.0,4,4,4,12,Champion
+C091291,Hyderabad,casual,123.0,2,1397.0,3,2,2,7,New/Promising
+C024285,Bangalore,casual,1133.0,2,2024.0,1,2,3,6,Needs Attention
+C026149,Bangalore,casual,241.0,5,1848.45,2,4,2,8,At Risk
+C077638,Pune,casual,194.0,3,2677.66,3,3,3,9,Champion
+C093816,Bangalore,casual,192.0,1,1408.0,3,2,2,7,New/Promising
+C078751,Bangalore,casual,44.0,1,419.0,4,1,1,6,New/Promising
+C040843,Mumbai,casual,85.0,4,4427.0,4,4,4,12,Champion
+C097824,Bangalore,casual,441.0,4,2353.0,2,3,3,8,Loyal
+C042820,Bangalore,casual,28.0,2,1507.0,4,2,2,8,New/Promising
+C005203,Hyderabad,casual,620.0,2,2675.0,1,3,3,7,Loyal
+C051580,Delhi,casual,261.0,2,2112.0,2,2,3,7,Needs Attention
+C032504,Delhi,casual,870.0,2,1584.0,1,2,2,5,Needs Attention
+C086365,Hyderabad,regular,99.0,10,10667.26,3,4,4,11,Champion
+C083852,Pune,loyal,74.0,15,15320.62,4,4,4,12,Champion
+C041853,Bangalore,regular,51.0,2,2995.47,4,3,3,10,Champion
+C087407,Pune,loyal,133.0,13,13473.24,3,4,4,11,Champion
+C052329,Pune,casual,561.0,2,1808.0,1,2,2,5,Needs Attention
+C054225,Pune,casual,359.0,1,1451.0,2,2,2,6,Needs Attention
+C096039,Delhi,casual,47.0,2,1371.0,4,2,2,8,New/Promising
+C048430,Delhi,casual,295.0,2,1461.47,2,2,2,6,Needs Attention
+C097562,Delhi,regular,194.0,5,4392.52,3,4,4,11,Champion
+C091461,Hyderabad,casual,32.0,1,1655.0,4,2,2,8,New/Promising
+C069598,Hyderabad,casual,1268.0,1,1054.97,1,1,1,3,Needs Attention
+C057253,Bangalore,casual,6.0,4,3981.0,4,4,4,12,Champion
+C060205,Delhi,casual,22.0,3,1692.11,4,3,2,9,Needs Attention
+C025396,Hyderabad,regular,110.0,1,957.0,3,1,1,5,New/Promising
+C047849,Mumbai,casual,331.0,2,764.47,2,2,1,5,Needs Attention
+C028795,Bangalore,loyal,26.0,15,12394.01,4,4,4,12,Champion
+C092510,Pune,loyal,73.0,14,12419.0,4,4,4,12,Champion
+C039615,Pune,casual,76.0,2,1298.0,4,2,2,8,New/Promising
+C051954,Pune,regular,109.0,7,9598.29,3,4,4,11,Champion
+C010933,Hyderabad,casual,236.0,2,813.0,2,2,1,5,Needs Attention
+C093736,Hyderabad,regular,118.0,3,1460.67,3,3,2,8,Needs Attention
+C040547,Hyderabad,casual,483.0,1,1651.0,1,2,2,5,Needs Attention
+C003196,Pune,casual,815.0,1,1474.0,1,2,2,5,Needs Attention
+C032985,Delhi,casual,422.0,1,494.0,2,1,1,4,Needs Attention
+C016676,Bangalore,casual,552.0,3,2310.97,1,3,3,7,Loyal
+C091420,Delhi,casual,210.0,3,3412.0,3,3,3,9,Champion
+C099379,Bangalore,loyal,11.0,19,19344.0,4,4,4,12,Champion
+C010022,Mumbai,regular,87.0,7,7198.82,4,4,4,12,Champion
+C060097,Hyderabad,regular,173.0,3,1700.0,3,3,2,8,Needs Attention
+C084653,Hyderabad,regular,399.0,7,4476.89,2,4,4,10,Loyal
+C019136,Bangalore,regular,411.0,4,5852.0,2,4,4,10,Loyal
+C074180,Hyderabad,regular,87.0,7,7540.0,4,4,4,12,Champion
+C030712,Mumbai,casual,293.0,2,2204.0,2,2,3,7,Needs Attention
+C020963,Hyderabad,casual,72.0,2,1390.0,4,2,2,8,New/Promising
+C075683,Mumbai,regular,169.0,8,7850.0,3,4,4,11,Champion
+C010876,Mumbai,casual,341.0,2,2782.0,2,3,3,8,Loyal
+C052593,Bangalore,regular,960.0,1,1468.0,1,2,2,5,Needs Attention
+C084400,Hyderabad,casual,4.0,3,4185.0,4,3,4,11,Champion
+C060481,Delhi,casual,36.0,2,1267.0,4,2,2,8,New/Promising
+C016451,Pune,casual,36.0,4,2417.98,4,3,3,10,Champion
+C082060,Hyderabad,casual,875.0,1,430.0,1,1,1,3,Needs Attention
+C095975,Mumbai,casual,254.0,2,2572.0,2,3,3,8,Loyal
+C059457,Bangalore,casual,453.0,3,2603.0,2,3,3,8,Loyal
+C086204,Pune,regular,172.0,5,6220.0,3,4,4,11,Champion
+C045250,Pune,casual,267.0,2,2600.69,2,3,3,8,Loyal
+C018079,Hyderabad,regular,125.0,3,3487.0,3,3,3,9,Champion
+C056535,Pune,casual,59.0,2,1636.0,4,2,2,8,New/Promising
+C030660,Pune,regular,177.0,6,6613.0,3,4,4,11,Champion
+C041299,Hyderabad,casual,592.0,1,994.0,1,1,1,3,Needs Attention
+C090407,Pune,casual,951.0,1,712.0,1,1,1,3,Needs Attention
+C050179,Delhi,casual,1054.0,1,776.0,1,1,1,3,Needs Attention
+C090969,Delhi,casual,357.0,1,1546.01,2,2,2,6,Needs Attention
+C047776,Mumbai,casual,84.0,4,4939.0,4,4,4,12,Champion
+C086712,Hyderabad,casual,957.0,1,796.0,1,1,1,3,Needs Attention
+C087479,Hyderabad,casual,1059.0,1,1449.86,1,2,2,5,Needs Attention
+C039842,Delhi,regular,83.0,7,4743.76,4,4,4,12,Champion
+C036084,Mumbai,casual,17.0,2,2317.0,4,3,3,10,Champion
+C078611,Mumbai,regular,157.0,7,7399.0,3,4,4,11,Champion
+C008373,Delhi,regular,987.0,2,1489.0,1,2,2,5,Needs Attention
+C044962,Hyderabad,casual,79.0,1,1018.0,4,1,1,6,New/Promising
+C022167,Delhi,casual,269.0,2,2934.0,2,3,3,8,Loyal
+C053990,Mumbai,casual,1080.0,1,1147.0,1,1,2,4,Needs Attention
+C079469,Pune,casual,1087.0,1,600.0,1,1,1,3,Needs Attention
+C079749,Bangalore,casual,301.0,2,1147.0,2,2,2,6,Needs Attention
+C086129,Hyderabad,loyal,65.0,19,17092.0,4,4,4,12,Champion
+C093628,Bangalore,casual,211.0,2,1475.86,3,2,2,7,New/Promising
+C013010,Hyderabad,loyal,12.0,12,11871.45,4,4,4,12,Champion
+C087676,Mumbai,loyal,21.0,13,11270.47,4,4,4,12,Champion
+C004807,Delhi,regular,196.0,6,4176.0,3,4,4,11,Champion
+C014561,Delhi,regular,727.0,3,1841.0,1,3,2,6,At Risk
+C066062,Pune,casual,74.0,1,1048.0,4,1,1,6,New/Promising
+C034079,Mumbai,casual,5.0,2,2207.0,4,2,3,9,New/Promising
+C013055,Delhi,casual,300.0,1,1192.0,2,1,2,5,Needs Attention
+C034575,Delhi,casual,145.0,2,2072.0,3,2,3,8,New/Promising
+C071909,Bangalore,casual,513.0,1,1212.0,1,1,2,4,Needs Attention
+C026986,Delhi,casual,643.0,1,354.44,1,1,1,3,Needs Attention
+C014510,Mumbai,casual,193.0,3,1920.0,3,3,2,8,Needs Attention
+C032806,Delhi,regular,149.0,2,1261.0,3,2,2,7,New/Promising
+C039573,Bangalore,casual,596.0,4,3360.0,1,4,3,8,Loyal
+C077391,Pune,casual,113.0,4,4857.0,3,4,4,11,Champion
+C015997,Bangalore,regular,12.0,6,7598.71,4,4,4,12,Champion
+C011861,Mumbai,casual,724.0,1,317.0,1,1,1,3,Needs Attention
+C019861,Pune,casual,98.0,3,2646.0,3,3,3,9,Champion
+C033355,Hyderabad,regular,222.0,7,5439.48,3,4,4,11,Champion
+C027794,Delhi,casual,845.0,1,290.0,1,1,1,3,Needs Attention
+C065060,Bangalore,casual,309.0,1,1280.0,2,1,2,5,Needs Attention
+C049034,Mumbai,casual,492.0,2,1951.62,1,2,2,5,Needs Attention
+C069358,Hyderabad,casual,108.0,2,1987.0,3,2,3,8,New/Promising
+C057842,Pune,casual,227.0,1,1290.0,3,1,2,6,New/Promising
+C005830,Pune,casual,420.0,2,1373.66,2,2,2,6,Needs Attention
+C058886,Pune,casual,11.0,2,1624.0,4,2,2,8,New/Promising
+C099258,Mumbai,casual,448.0,1,1223.0,2,1,2,5,Needs Attention
+C079199,Bangalore,casual,349.0,2,1481.0,2,2,2,6,Needs Attention
+C043108,Bangalore,casual,727.0,2,1986.0,1,2,3,6,Needs Attention
+C048385,Delhi,casual,73.0,1,450.0,4,1,1,6,New/Promising
+C039945,Bangalore,casual,79.0,2,1249.0,4,2,2,8,New/Promising
+C027550,Pune,regular,449.0,2,1536.0,2,2,2,6,Needs Attention
+C040454,Pune,casual,,1,238.09,4,1,1,6,New/Promising
+C098776,Delhi,casual,67.0,2,925.0,4,2,1,7,New/Promising
+C042547,Delhi,casual,19.0,1,1732.0,4,2,2,8,New/Promising
+C094162,Delhi,regular,114.0,6,3667.56,3,4,4,11,Champion
+C087001,Bangalore,loyal,243.0,10,11122.0,2,4,4,10,Loyal
+C051974,Bangalore,regular,14.0,3,2522.0,4,3,3,10,Champion
+C052277,Pune,regular,57.0,6,6957.0,4,4,4,12,Champion
+C099276,Hyderabad,casual,1011.0,1,1901.0,1,2,2,5,Needs Attention
+C099424,Pune,regular,77.0,5,4656.0,4,4,4,12,Champion
+C095590,Pune,loyal,7.0,22,20394.27,4,4,4,12,Champion
+C076853,Pune,casual,654.0,3,2514.27,1,3,3,7,Loyal
+C018249,Delhi,casual,576.0,2,1555.0,1,2,2,5,Needs Attention
+C036575,Delhi,regular,198.0,2,2541.0,3,3,3,9,Champion
+C094695,Hyderabad,casual,922.0,1,827.0,1,1,1,3,Needs Attention
+C080471,Pune,loyal,112.0,10,8386.0,3,4,4,11,Champion
+C095658,Delhi,casual,6.0,4,4802.0,4,4,4,12,Champion
+C001319,Hyderabad,casual,427.0,1,836.0,2,1,1,4,Needs Attention
+C003201,Delhi,casual,583.0,1,775.0,1,1,1,3,Needs Attention
+C011770,Pune,loyal,81.0,13,10934.99,4,4,4,12,Champion
+C061488,Hyderabad,casual,264.0,4,5268.02,2,4,4,10,Loyal
+C039148,Bangalore,casual,3.0,2,3234.0,4,3,3,10,Champion
+C022758,Mumbai,casual,503.0,2,1597.0,1,2,2,5,Needs Attention
+C028386,Pune,regular,362.0,4,5578.0,2,4,4,10,Loyal
+C017327,Bangalore,casual,368.0,2,573.0,2,2,1,5,Needs Attention
+C023314,Hyderabad,casual,535.0,2,2086.0,1,2,3,6,Needs Attention
+C063458,Hyderabad,casual,131.0,5,5010.0,3,4,4,11,Champion
+C013629,Pune,loyal,125.0,9,9544.0,3,4,4,11,Champion
+C046106,Hyderabad,regular,6.0,3,1890.0,4,3,2,9,Needs Attention
+C002422,Hyderabad,regular,46.0,9,5064.0,4,4,4,12,Champion
+C056591,Pune,casual,200.0,1,1299.0,3,1,2,6,New/Promising
+C009865,Hyderabad,casual,375.0,1,884.0,2,1,1,4,Needs Attention
+C033655,Delhi,regular,256.0,5,4410.26,2,4,4,10,Loyal
+C086382,Delhi,casual,464.0,3,4958.0,2,3,4,9,Loyal
+C014002,Mumbai,casual,147.0,4,2710.3,3,3,3,9,Champion
+C018187,Mumbai,casual,808.0,2,567.0,1,2,1,4,Needs Attention
+C006039,Bangalore,casual,450.0,1,397.0,2,1,1,4,Needs Attention
+C005623,Pune,regular,25.0,5,5114.47,4,4,4,12,Champion
+C064590,Bangalore,casual,511.0,1,491.0,1,1,1,3,Needs Attention
+C054072,Delhi,casual,35.0,2,1254.0,4,2,2,8,New/Promising
+C067980,Bangalore,casual,271.0,1,504.0,2,1,1,4,Needs Attention
+C070146,Mumbai,casual,454.0,2,1429.0,2,2,2,6,Needs Attention
+C093616,Delhi,casual,686.0,1,388.0,1,1,1,3,Needs Attention
+C068606,Bangalore,casual,327.0,2,1782.0,2,2,2,6,Needs Attention
+C011150,Hyderabad,casual,1458.0,2,2246.0,1,3,3,7,Loyal
+C074997,Mumbai,regular,138.0,8,5958.25,3,4,4,11,Champion
+C088959,Mumbai,regular,104.0,5,5406.41,3,4,4,11,Champion
+C056025,Bangalore,casual,631.0,1,2196.0,1,2,3,6,Needs Attention
+C076208,Pune,casual,387.0,4,1506.0,2,3,2,7,At Risk
+C052570,Bangalore,casual,344.0,1,522.01,2,1,1,4,Needs Attention
+C036807,Delhi,casual,172.0,1,1535.0,3,2,2,7,New/Promising
+C025123,Bangalore,regular,221.0,4,3579.94,3,4,4,11,Champion
+C078121,Mumbai,regular,89.0,4,3610.0,4,4,4,12,Champion
+C065748,Pune,casual,166.0,1,210.0,3,1,1,5,New/Promising
+C095199,Hyderabad,casual,84.0,3,4261.0,4,3,4,11,Champion
+C098334,Hyderabad,casual,183.0,2,1826.0,3,2,2,7,New/Promising
+C024533,Mumbai,loyal,61.0,16,14813.0,4,4,4,12,Champion
+C096911,Hyderabad,casual,238.0,1,425.0,2,1,1,4,Needs Attention
+C038918,Hyderabad,casual,415.0,2,2092.39,2,2,3,7,Needs Attention
+C098153,Delhi,casual,44.0,4,4261.8,4,4,4,12,Champion
+C061232,Pune,loyal,11.0,20,16040.69,4,4,4,12,Champion
+C062782,Hyderabad,loyal,51.0,15,15049.97,4,4,4,12,Champion
+C041831,Delhi,casual,607.0,1,494.0,1,1,1,3,Needs Attention
+C095357,Delhi,casual,462.0,1,430.0,2,1,1,4,Needs Attention
+C073139,Bangalore,casual,106.0,3,1410.0,3,3,2,8,Needs Attention
+C080334,Hyderabad,casual,362.0,1,726.0,2,1,1,4,Needs Attention
+C039571,Mumbai,casual,69.0,6,4395.0,4,4,4,12,Champion
+C030167,Mumbai,casual,1223.0,1,1071.66,1,1,2,4,Needs Attention
+C041882,Mumbai,regular,34.0,4,1704.73,4,3,2,9,Needs Attention
+C041627,Pune,casual,197.0,1,1040.0,3,1,1,5,New/Promising
+C041532,Bangalore,casual,279.0,3,3829.0,2,3,4,9,Loyal
+C006354,Bangalore,casual,441.0,1,942.0,2,1,1,4,Needs Attention
+C023334,Bangalore,casual,200.0,2,972.0,3,2,1,6,New/Promising
+C050063,Mumbai,casual,583.0,4,3351.63,1,4,3,8,Loyal
+C006856,Pune,regular,166.0,3,1903.0,3,3,2,8,Needs Attention
+C054375,Delhi,casual,448.0,1,1214.0,2,1,2,5,Needs Attention
+C081965,Bangalore,casual,756.0,1,744.0,1,1,1,3,Needs Attention
+C038803,Delhi,casual,492.0,1,768.0,1,1,1,3,Needs Attention
+C005035,Bangalore,regular,326.0,4,3872.0,2,4,4,10,Loyal
+C021114,Bangalore,casual,849.0,2,1766.0,1,2,2,5,Needs Attention
+C009530,Mumbai,casual,599.0,1,550.0,1,1,1,3,Needs Attention
+C011797,Bangalore,casual,1195.0,1,1359.66,1,2,2,5,Needs Attention
+C012672,Mumbai,casual,362.0,3,3820.0,2,3,4,9,Loyal
+C033188,Delhi,casual,357.0,1,1486.0,2,2,2,6,Needs Attention
+C057813,Pune,casual,224.0,2,1266.0,3,2,2,7,New/Promising
+C056210,Hyderabad,casual,326.0,3,1978.0,2,3,3,8,Loyal
+C015216,Delhi,casual,628.0,3,3329.21,1,3,3,7,Loyal
+C097563,Pune,regular,224.0,7,6065.66,3,4,4,11,Champion
+C084413,Hyderabad,casual,231.0,2,1670.0,3,2,2,7,New/Promising
+C008121,Delhi,regular,571.0,4,3507.0,1,4,3,8,Loyal
+C000628,Pune,casual,158.0,1,1530.0,3,2,2,7,New/Promising
+C064893,Pune,regular,35.0,4,4753.0,4,4,4,12,Champion
+C098507,Delhi,casual,53.0,6,6029.0,4,4,4,12,Champion
+C095156,Hyderabad,casual,5.0,1,1352.0,4,2,2,8,New/Promising
+C099655,Delhi,loyal,34.0,18,14398.0,4,4,4,12,Champion
+C035682,Hyderabad,casual,259.0,2,1757.0,2,2,2,6,Needs Attention
+C050466,Delhi,casual,126.0,1,296.0,3,1,1,5,New/Promising
+C024886,Pune,casual,237.0,3,1361.74,2,3,2,7,At Risk
+C091525,Delhi,casual,295.0,2,3230.27,2,3,3,8,Loyal
+C041436,Pune,regular,346.0,5,4265.15,2,4,4,10,Loyal
+C063044,Bangalore,casual,379.0,2,1439.0,2,2,2,6,Needs Attention
+C014580,Bangalore,casual,319.0,5,5121.86,2,4,4,10,Loyal
+C018777,Bangalore,casual,293.0,1,760.0,2,1,1,4,Needs Attention
+C033658,Delhi,loyal,11.0,19,14757.52,4,4,4,12,Champion
+C096668,Mumbai,casual,217.0,1,623.0,3,1,1,5,New/Promising
+C082888,Bangalore,casual,965.0,1,316.0,1,1,1,3,Needs Attention
+C034679,Bangalore,casual,112.0,1,1645.0,3,2,2,7,New/Promising
+C030198,Mumbai,casual,116.0,3,2247.29,3,3,3,9,Champion
+C003253,Pune,casual,529.0,2,1296.0,1,2,2,5,Needs Attention
+C097934,Pune,regular,48.0,6,7084.0,4,4,4,12,Champion
+C094989,Delhi,casual,160.0,1,267.0,3,1,1,5,New/Promising
+C079256,Hyderabad,casual,638.0,2,952.0,1,2,1,4,Needs Attention
+C015510,Bangalore,regular,45.0,4,4748.24,4,4,4,12,Champion
+C041736,Hyderabad,loyal,7.0,10,8724.0,4,4,4,12,Champion
+C080369,Mumbai,casual,982.0,1,1510.0,1,2,2,5,Needs Attention
+C003042,Mumbai,casual,53.0,1,1034.0,4,1,1,6,New/Promising
+C038008,Pune,regular,7.0,6,6952.24,4,4,4,12,Champion
+C089213,Delhi,casual,115.0,1,358.0,3,1,1,5,New/Promising
+C094482,Mumbai,casual,198.0,2,2485.0,3,3,3,9,Champion
+C094614,Hyderabad,regular,141.0,5,4055.0,3,4,4,11,Champion
+C069577,Mumbai,casual,231.0,1,1408.0,3,2,2,7,New/Promising
+C056260,Mumbai,casual,57.0,2,2847.0,4,3,3,10,Champion
+C025830,Delhi,regular,67.0,1,520.0,4,1,1,6,New/Promising
+C054004,Mumbai,casual,716.0,2,2616.0,1,3,3,7,Loyal
+C061573,Pune,regular,34.0,2,2045.0,4,2,3,9,New/Promising
+C068221,Pune,casual,421.0,1,234.0,2,1,1,4,Needs Attention
+C026902,Hyderabad,casual,139.0,2,1242.0,3,2,2,7,New/Promising
+C093403,Mumbai,regular,169.0,3,2875.0,3,3,3,9,Champion
+C019986,Bangalore,casual,180.0,3,2818.0,3,3,3,9,Champion
+C024846,Pune,casual,506.0,4,4156.78,1,4,4,9,Loyal
+C097531,Mumbai,casual,434.0,1,1787.0,2,2,2,6,Needs Attention
+C061782,Hyderabad,regular,478.0,3,3246.0,1,3,3,7,Loyal
+C061117,Pune,casual,152.0,3,3561.0,3,3,4,10,Champion
+C056032,Bangalore,loyal,49.0,11,9237.0,4,4,4,12,Champion
+C082034,Pune,loyal,106.0,8,5426.0,3,4,4,11,Champion
+C040094,Pune,casual,285.0,1,968.0,2,1,1,4,Needs Attention
+C031458,Mumbai,casual,262.0,5,4772.22,2,4,4,10,Loyal
+C096696,Hyderabad,loyal,66.0,12,11086.4,4,4,4,12,Champion
+C017286,Mumbai,casual,142.0,2,1549.0,3,2,2,7,New/Promising
+C004826,Bangalore,casual,248.0,3,2624.0,2,3,3,8,Loyal
+C040036,Delhi,casual,1391.0,1,720.0,1,1,1,3,Needs Attention
+C028336,Pune,casual,107.0,3,3314.0,3,3,3,9,Champion
+C099699,Pune,casual,70.0,3,2296.0,4,3,3,10,Champion
+C003791,Delhi,regular,341.0,4,2575.22,2,3,3,8,Loyal
+C072803,Hyderabad,regular,241.0,4,3450.24,2,4,3,9,Loyal
+C022930,Hyderabad,regular,308.0,4,2737.45,2,3,3,8,Loyal
+C041836,Pune,casual,204.0,1,1097.0,3,1,2,6,New/Promising
+C044012,Mumbai,casual,737.0,1,740.0,1,1,1,3,Needs Attention
+C014714,Mumbai,casual,764.0,2,2895.22,1,3,3,7,Loyal
+C045855,Bangalore,casual,717.0,1,576.0,1,1,1,3,Needs Attention
+C043528,Hyderabad,casual,555.0,1,1022.0,1,1,1,3,Needs Attention
+C087487,Pune,casual,102.0,2,2170.0,3,2,3,8,New/Promising
+C012337,Bangalore,casual,263.0,3,3067.0,2,3,3,8,Loyal
+C085052,Bangalore,casual,387.0,1,196.0,2,1,1,4,Needs Attention
+C098853,Hyderabad,loyal,99.0,9,8157.0,3,4,4,11,Champion
+C054704,Mumbai,casual,7.0,1,648.0,4,1,1,6,New/Promising
+C048077,Pune,casual,388.0,1,338.0,2,1,1,4,Needs Attention
+C045151,Hyderabad,casual,700.0,2,2677.6,1,3,3,7,Loyal
+C064064,Delhi,casual,909.0,1,60.0,1,1,1,3,Needs Attention
+C064751,Hyderabad,casual,144.0,1,562.0,3,1,1,5,New/Promising
+C034077,Pune,casual,59.0,3,1678.0,4,3,2,9,Needs Attention
+C087228,Bangalore,casual,346.0,3,3065.0,2,3,3,8,Loyal
+C006901,Mumbai,casual,435.0,1,850.0,2,1,1,4,Needs Attention
+C047625,Hyderabad,casual,625.0,2,1269.0,1,2,2,5,Needs Attention
+C050173,Bangalore,casual,458.0,1,1178.0,2,1,2,5,Needs Attention
+C027190,Hyderabad,casual,360.0,2,1410.0,2,2,2,6,Needs Attention
+C001359,Hyderabad,casual,652.0,1,940.56,1,1,1,3,Needs Attention
+C041479,Delhi,regular,333.0,3,2218.0,2,3,3,8,Loyal
+C009262,Pune,casual,240.0,6,6392.0,2,4,4,10,Loyal
+C025605,Delhi,casual,331.0,1,2200.47,2,2,3,7,Needs Attention
+C025462,Pune,casual,408.0,2,2044.0,2,2,3,7,Needs Attention
+C079859,Hyderabad,casual,511.0,1,1780.62,1,2,2,5,Needs Attention
+C092297,Delhi,regular,359.0,3,1423.01,2,3,2,7,At Risk
+C002176,Mumbai,casual,46.0,2,2086.0,4,2,3,9,New/Promising
+C028381,Bangalore,loyal,217.0,16,11058.26,3,4,4,11,Champion
+C070389,Bangalore,casual,711.0,2,1761.0,1,2,2,5,Needs Attention
+C028981,Pune,casual,384.0,1,1373.0,2,2,2,6,Needs Attention
+C053073,Mumbai,casual,324.0,1,310.47,2,1,1,4,Needs Attention
+C071512,Pune,casual,1151.0,1,610.0,1,1,1,3,Needs Attention
+C057047,Delhi,casual,239.0,1,845.0,2,1,1,4,Needs Attention
+C053359,Bangalore,casual,788.0,1,730.0,1,1,1,3,Needs Attention
+C021127,Mumbai,casual,279.0,3,2245.0,2,3,3,8,Loyal
+C057917,Hyderabad,casual,474.0,3,2801.0,2,3,3,8,Loyal
+C087843,Pune,casual,317.0,2,1077.0,2,2,2,6,Needs Attention
+C072110,Delhi,casual,228.0,2,1527.0,3,2,2,7,New/Promising
+C048532,Hyderabad,casual,273.0,1,1360.0,2,2,2,6,Needs Attention
+C092369,Pune,casual,112.0,1,1243.0,3,1,2,6,New/Promising
+C067410,Pune,casual,193.0,2,1688.48,3,2,2,7,New/Promising
+C099575,Mumbai,casual,164.0,1,340.0,3,1,1,5,New/Promising
+C049226,Hyderabad,casual,78.0,2,1568.0,4,2,2,8,New/Promising
+C053333,Hyderabad,casual,379.0,3,2333.0,2,3,3,8,Loyal
+C029547,Mumbai,casual,483.0,3,3398.0,1,3,3,7,Loyal
+C012982,Bangalore,casual,468.0,1,668.0,2,1,1,4,Needs Attention
+C016301,Pune,regular,250.0,2,920.0,2,2,1,5,Needs Attention
+C092083,Pune,casual,804.0,2,2265.0,1,3,3,7,Loyal
+C008036,Bangalore,casual,36.0,2,3360.0,4,3,3,10,Champion
+C056601,Mumbai,regular,242.0,2,1868.51,2,2,2,6,Needs Attention
+C075414,Pune,casual,361.0,2,1868.01,2,2,2,6,Needs Attention
+C007749,Pune,casual,28.0,3,5037.0,4,3,4,11,Champion
+C053040,Hyderabad,regular,349.0,3,1810.0,2,3,2,7,At Risk
+C088552,Hyderabad,casual,755.0,1,154.0,1,1,1,3,Needs Attention
+C017777,Bangalore,casual,243.0,2,2384.0,2,3,3,8,Loyal
+C005809,Bangalore,casual,130.0,4,1992.0,3,3,3,9,Champion
+C052896,Delhi,casual,431.0,2,1131.0,2,2,2,6,Needs Attention
+C003360,Hyderabad,regular,351.0,4,4945.0,2,4,4,10,Loyal
+C050273,Pune,casual,510.0,1,285.0,1,1,1,3,Needs Attention
+C078370,Delhi,casual,147.0,2,1588.0,3,2,2,7,New/Promising
+C028432,Delhi,regular,30.0,5,4425.0,4,4,4,12,Champion
+C082536,Mumbai,casual,300.0,1,516.0,2,1,1,4,Needs Attention
+C087927,Delhi,loyal,9.0,10,9994.0,4,4,4,12,Champion
+C044903,Bangalore,casual,263.0,2,534.0,2,2,1,5,Needs Attention
+C030601,Pune,casual,953.0,1,2080.0,1,2,3,6,Needs Attention
+C017576,Mumbai,casual,968.0,1,1295.0,1,1,2,4,Needs Attention
+C075042,Mumbai,casual,211.0,2,1646.0,3,2,2,7,New/Promising
+C061167,Pune,casual,879.0,3,1584.0,1,3,2,6,At Risk
+C019811,Hyderabad,casual,51.0,3,2261.0,4,3,3,10,Champion
+C037854,Delhi,casual,67.0,3,2714.0,4,3,3,10,Champion
+C027653,Bangalore,casual,120.0,1,862.0,3,1,1,5,New/Promising
+C017033,Mumbai,casual,543.0,3,2909.0,1,3,3,7,Loyal
+C030237,Pune,casual,330.0,1,402.47,2,1,1,4,Needs Attention
+C036972,Bangalore,loyal,571.0,10,10820.41,1,4,4,9,Loyal
+C062125,Delhi,loyal,34.0,11,8625.97,4,4,4,12,Champion
+C081803,Bangalore,loyal,13.0,14,13420.0,4,4,4,12,Champion
+C040614,Delhi,regular,200.0,4,5261.48,3,4,4,11,Champion
+C027055,Pune,casual,8.0,2,2747.0,4,3,3,10,Champion
+C053679,Mumbai,casual,892.0,2,2175.0,1,2,3,6,Needs Attention
+C073898,Bangalore,casual,239.0,2,2462.0,2,3,3,8,Loyal
+C079833,Mumbai,regular,44.0,5,4817.0,4,4,4,12,Champion
+C023724,Hyderabad,casual,77.0,2,1808.0,4,2,2,8,New/Promising
+C089033,Bangalore,casual,588.0,2,1720.0,1,2,2,5,Needs Attention
+C073136,Hyderabad,casual,440.0,1,1149.55,2,1,2,5,Needs Attention
+C049643,Pune,regular,152.0,5,4758.47,3,4,4,11,Champion
+C032596,Hyderabad,casual,262.0,2,1023.0,2,2,1,5,Needs Attention
+C008974,Delhi,casual,101.0,3,4574.0,3,3,4,10,Champion
+C010218,Hyderabad,casual,189.0,3,2166.27,3,3,3,9,Champion
+C011076,Pune,casual,262.0,1,813.0,2,1,1,4,Needs Attention
+C087648,Delhi,casual,463.0,2,1065.07,2,2,1,5,Needs Attention
+C059260,Hyderabad,casual,463.0,3,3509.0,2,3,3,8,Loyal
+C080289,Pune,casual,452.0,2,1285.45,2,2,2,6,Needs Attention
+C028353,Bangalore,casual,163.0,1,448.0,3,1,1,5,New/Promising
+C065246,Bangalore,casual,75.0,2,1657.0,4,2,2,8,New/Promising
+C058270,Pune,casual,144.0,3,2328.0,3,3,3,9,Champion
+C071287,Bangalore,casual,542.0,1,1134.0,1,1,2,4,Needs Attention
+C032661,Mumbai,casual,385.0,2,759.0,2,2,1,5,Needs Attention
+C038668,Hyderabad,casual,131.0,3,2379.0,3,3,3,9,Champion
+C090101,Pune,casual,563.0,2,574.68,1,2,1,4,Needs Attention
+C020897,Hyderabad,casual,283.0,2,2179.47,2,2,3,7,Needs Attention
+C065239,Bangalore,casual,534.0,2,1902.0,1,2,2,5,Needs Attention
+C066112,Bangalore,casual,525.0,1,1314.68,1,2,2,5,Needs Attention
+C095163,Bangalore,casual,87.0,3,2196.0,4,3,3,10,Champion
+C022607,Bangalore,casual,418.0,1,1021.0,2,1,1,4,Needs Attention
+C049873,Mumbai,casual,50.0,2,2191.0,4,2,3,9,New/Promising
+C036290,Delhi,casual,1126.0,1,317.0,1,1,1,3,Needs Attention
+C019216,Bangalore,casual,199.0,1,519.0,3,1,1,5,New/Promising
+C016225,Bangalore,casual,391.0,3,3096.43,2,3,3,8,Loyal
+C069219,Mumbai,regular,41.0,6,6268.0,4,4,4,12,Champion
+C053444,Bangalore,regular,8.0,6,5152.29,4,4,4,12,Champion
+C032170,Bangalore,regular,129.0,6,6194.55,3,4,4,11,Champion
+C075630,Hyderabad,casual,921.0,1,435.96,1,1,1,3,Needs Attention
+C011848,Delhi,casual,261.0,2,941.0,2,2,1,5,Needs Attention
+C089780,Mumbai,casual,103.0,1,401.0,3,1,1,5,New/Promising
+C033563,Delhi,loyal,66.0,10,8715.0,4,4,4,12,Champion
+C067623,Hyderabad,casual,90.0,5,5348.0,3,4,4,11,Champion
+C082150,Delhi,regular,398.0,1,706.97,2,1,1,4,Needs Attention
+C001727,Mumbai,casual,295.0,4,4513.47,2,4,4,10,Loyal
+C005153,Bangalore,casual,674.0,5,3756.37,1,4,4,9,Loyal
+C078973,Mumbai,regular,300.0,4,3294.0,2,4,3,9,Loyal
+C027267,Hyderabad,regular,380.0,2,2096.0,2,2,3,7,Needs Attention
+C081835,Mumbai,regular,112.0,2,1221.0,3,2,2,7,New/Promising
+C063953,Mumbai,casual,385.0,3,2678.0,2,3,3,8,Loyal
+C082522,Delhi,regular,201.0,6,5546.03,3,4,4,11,Champion
+C094485,Pune,casual,408.0,2,2470.0,2,3,3,8,Loyal
+C027560,Bangalore,casual,1193.0,1,767.0,1,1,1,3,Needs Attention
+C032488,Bangalore,casual,239.0,3,3045.91,2,3,3,8,Loyal
+C075646,Delhi,regular,158.0,5,4587.58,3,4,4,11,Champion
+C011926,Pune,casual,587.0,1,1515.0,1,2,2,5,Needs Attention
+C058692,Pune,casual,300.0,1,1734.0,2,2,2,6,Needs Attention
+C081322,Pune,casual,7.0,2,1843.0,4,2,2,8,New/Promising
+C004556,Pune,casual,435.0,3,4185.55,2,3,4,9,Loyal
+C099225,Hyderabad,casual,59.0,2,2903.0,4,3,3,10,Champion
+C021236,Mumbai,casual,59.0,2,1204.0,4,2,2,8,New/Promising
+C039203,Mumbai,regular,443.0,1,744.93,2,1,1,4,Needs Attention
+C012409,Mumbai,regular,229.0,4,2950.0,3,3,3,9,Champion
+C005064,Hyderabad,casual,470.0,1,1322.0,2,2,2,6,Needs Attention
+C063297,Pune,casual,,1,1159.0,4,1,2,7,New/Promising
+C082391,Delhi,regular,70.0,5,4271.0,4,4,4,12,Champion
+C009644,Hyderabad,casual,412.0,2,1419.0,2,2,2,6,Needs Attention
+C075822,Hyderabad,casual,253.0,2,2445.0,2,3,3,8,Loyal
+C062056,Mumbai,casual,749.0,2,796.97,1,2,1,4,Needs Attention
+C089672,Hyderabad,regular,38.0,6,4468.0,4,4,4,12,Champion
+C022513,Bangalore,casual,433.0,1,831.0,2,1,1,4,Needs Attention
+C051262,Mumbai,casual,441.0,1,1188.0,2,1,2,5,Needs Attention
+C020460,Delhi,casual,112.0,2,2913.0,3,3,3,9,Champion
+C083173,Pune,casual,1016.0,1,748.0,1,1,1,3,Needs Attention
+C045253,Pune,loyal,120.0,16,14294.46,3,4,4,11,Champion
+C004937,Delhi,casual,348.0,2,893.0,2,2,1,5,Needs Attention
+C065392,Pune,casual,574.0,4,3338.0,1,4,3,8,Loyal
+C033301,Hyderabad,casual,568.0,2,1329.93,1,2,2,5,Needs Attention
+C032871,Mumbai,casual,236.0,4,4095.0,2,4,4,10,Loyal
+C043257,Delhi,regular,134.0,6,6031.96,3,4,4,11,Champion
+C001091,Hyderabad,casual,336.0,1,1828.0,2,2,2,6,Needs Attention
+C080878,Hyderabad,casual,105.0,2,799.0,3,2,1,6,New/Promising
+C039710,Mumbai,regular,187.0,6,3521.0,3,4,3,10,Champion
+C091567,Mumbai,regular,85.0,8,6138.31,4,4,4,12,Champion
+C071068,Mumbai,casual,522.0,1,1552.0,1,2,2,5,Needs Attention
+C050064,Pune,casual,320.0,5,5662.0,2,4,4,10,Loyal
+C069931,Bangalore,casual,515.0,1,1568.0,1,2,2,5,Needs Attention
+C040250,Pune,casual,18.0,3,2695.0,4,3,3,10,Champion
+C062780,Bangalore,casual,43.0,2,2114.0,4,2,3,9,New/Promising
+C032845,Mumbai,casual,146.0,1,1382.0,3,2,2,7,New/Promising
+C004093,Hyderabad,casual,329.0,2,1970.0,2,2,2,6,Needs Attention
+C017666,Bangalore,regular,111.0,11,9815.47,3,4,4,11,Champion
+C058433,Mumbai,casual,193.0,1,617.0,3,1,1,5,New/Promising
+C097451,Hyderabad,regular,362.0,3,1711.0,2,3,2,7,At Risk
+C090464,Delhi,casual,211.0,1,884.0,3,1,1,5,New/Promising
+C004877,Bangalore,loyal,189.0,15,13478.08,3,4,4,11,Champion
+C026534,Pune,regular,390.0,3,2829.0,2,3,3,8,Loyal
+C037738,Mumbai,regular,55.0,1,1028.0,4,1,1,6,New/Promising
+C003018,Bangalore,regular,378.0,6,5685.0,2,4,4,10,Loyal
+C051330,Hyderabad,casual,432.0,5,4872.49,2,4,4,10,Loyal
+C061273,Mumbai,regular,381.0,3,3427.0,2,3,3,8,Loyal
+C016454,Mumbai,casual,25.0,1,277.0,4,1,1,6,New/Promising
+C057907,Pune,casual,658.0,4,4531.0,1,4,4,9,Loyal
+C052234,Pune,casual,484.0,1,652.0,1,1,1,3,Needs Attention
+C099928,Hyderabad,regular,14.0,7,7596.0,4,4,4,12,Champion
+C040818,Bangalore,regular,416.0,4,2801.0,2,3,3,8,Loyal
+C021558,Bangalore,casual,46.0,1,558.0,4,1,1,6,New/Promising
+C007334,Delhi,casual,686.0,2,1513.0,1,2,2,5,Needs Attention
+C076169,Delhi,regular,133.0,4,4597.47,3,4,4,11,Champion
+C038556,Hyderabad,casual,303.0,1,1372.0,2,2,2,6,Needs Attention
+C070835,Hyderabad,casual,188.0,3,3081.0,3,3,3,9,Champion
+C082718,Mumbai,casual,326.0,1,284.0,2,1,1,4,Needs Attention
+C029122,Delhi,casual,531.0,2,1171.99,1,2,2,5,Needs Attention
+C063793,Mumbai,casual,249.0,3,1371.66,2,3,2,7,At Risk
+C068188,Delhi,casual,329.0,3,4024.0,2,3,4,9,Loyal
+C089871,Mumbai,casual,49.0,7,7011.0,4,4,4,12,Champion
+C004522,Pune,regular,270.0,1,743.0,2,1,1,4,Needs Attention
+C035610,Delhi,loyal,183.0,18,13828.88,3,4,4,11,Champion
+C050920,Pune,casual,771.0,1,1358.0,1,2,2,5,Needs Attention
+C083613,Mumbai,casual,52.0,1,1267.0,4,1,2,7,New/Promising
+C077712,Mumbai,casual,164.0,2,421.0,3,2,1,6,New/Promising
+C038352,Delhi,casual,1051.0,1,1320.0,1,2,2,5,Needs Attention
+C061382,Mumbai,regular,20.0,5,5848.0,4,4,4,12,Champion
+C085733,Hyderabad,regular,138.0,4,2706.0,3,3,3,9,Champion
+C026190,Delhi,casual,81.0,2,3536.0,4,3,3,10,Champion
+C096086,Bangalore,regular,54.0,4,3059.0,4,3,3,10,Champion
+C061625,Pune,casual,227.0,3,2306.0,3,3,3,9,Champion
+C020487,Bangalore,casual,97.0,2,3335.0,3,3,3,9,Champion
+C011266,Delhi,casual,516.0,1,1035.0,1,1,1,3,Needs Attention
+C053160,Delhi,casual,773.0,2,914.0,1,2,1,4,Needs Attention
+C050072,Pune,regular,41.0,7,6053.86,4,4,4,12,Champion
+C065937,Delhi,casual,464.0,3,1565.61,2,3,2,7,At Risk
+C042028,Bangalore,casual,706.0,1,594.0,1,1,1,3,Needs Attention
+C099491,Hyderabad,casual,301.0,2,3144.0,2,3,3,8,Loyal
+C073426,Mumbai,casual,219.0,3,4650.0,3,3,4,10,Champion
+C086286,Pune,casual,398.0,2,758.88,2,2,1,5,Needs Attention
+C004585,Pune,casual,224.0,1,254.0,3,1,1,5,New/Promising
+C096522,Delhi,casual,285.0,1,281.0,2,1,1,4,Needs Attention
+C051468,Hyderabad,regular,22.0,5,3958.0,4,4,4,12,Champion
+C061302,Mumbai,casual,569.0,1,726.0,1,1,1,3,Needs Attention
+C084922,Bangalore,regular,182.0,2,1334.0,3,2,2,7,New/Promising
+C005491,Mumbai,casual,325.0,2,2123.0,2,2,3,7,Needs Attention
+C020983,Hyderabad,regular,197.0,6,3368.0,3,4,3,10,Champion
+C034688,Bangalore,casual,283.0,4,2615.0,2,3,3,8,Loyal
+C003442,Mumbai,casual,103.0,7,7181.0,3,4,4,11,Champion
+C042255,Hyderabad,casual,150.0,5,4932.0,3,4,4,11,Champion
+C058183,Bangalore,casual,30.0,3,2544.0,4,3,3,10,Champion
+C013605,Bangalore,casual,299.0,3,3381.37,2,3,3,8,Loyal
+C013960,Mumbai,casual,170.0,1,1141.0,3,1,2,6,New/Promising
+C069106,Mumbai,casual,236.0,2,1814.0,2,2,2,6,Needs Attention
+C050363,Delhi,casual,1045.0,1,330.0,1,1,1,3,Needs Attention
+C049493,Delhi,casual,1355.0,1,1339.0,1,2,2,5,Needs Attention
+C046131,Mumbai,casual,595.0,2,1084.0,1,2,2,5,Needs Attention
+C002449,Delhi,casual,50.0,4,4263.0,4,4,4,12,Champion
+C071062,Mumbai,regular,238.0,6,8112.0,2,4,4,10,Loyal
+C015240,Mumbai,regular,150.0,3,1052.0,3,3,1,7,Needs Attention
+C018666,Bangalore,loyal,48.0,11,8497.76,4,4,4,12,Champion
+C095882,Bangalore,casual,311.0,2,934.0,2,2,1,5,Needs Attention
+C077748,Mumbai,regular,72.0,4,4346.0,4,4,4,12,Champion
+C074431,Bangalore,regular,85.0,6,4378.0,4,4,4,12,Champion
+C067797,Bangalore,casual,496.0,1,581.0,1,1,1,3,Needs Attention
+C045962,Bangalore,casual,282.0,2,840.47,2,2,1,5,Needs Attention
+C055086,Hyderabad,regular,30.0,4,4104.0,4,4,4,12,Champion
+C014607,Mumbai,casual,356.0,2,865.0,2,2,1,5,Needs Attention
+C069213,Delhi,casual,293.0,1,245.0,2,1,1,4,Needs Attention
+C041221,Pune,casual,175.0,3,2586.0,3,3,3,9,Champion
+C084075,Mumbai,casual,44.0,3,2516.0,4,3,3,10,Champion
+C088571,Delhi,casual,131.0,4,3694.0,3,4,4,11,Champion
+C011070,Hyderabad,regular,3.0,3,5401.0,4,3,4,11,Champion
+C093537,Pune,regular,144.0,6,6149.0,3,4,4,11,Champion
+C044136,Hyderabad,casual,404.0,3,1083.98,2,3,2,7,At Risk
+C055431,Pune,casual,250.0,1,994.0,2,1,1,4,Needs Attention
+C005876,Mumbai,casual,714.0,1,743.0,1,1,1,3,Needs Attention
+C098414,Hyderabad,casual,603.0,1,1368.0,1,2,2,5,Needs Attention
+C073759,Hyderabad,casual,221.0,2,1362.0,3,2,2,7,New/Promising
+C069792,Bangalore,casual,396.0,1,1198.0,2,1,2,5,Needs Attention
+C090363,Mumbai,casual,3.0,1,771.0,4,1,1,6,New/Promising
+C070304,Pune,casual,957.0,2,1615.0,1,2,2,5,Needs Attention
+C034727,Pune,casual,817.0,2,3272.0,1,3,3,7,Loyal
+C088543,Mumbai,casual,812.0,1,751.0,1,1,1,3,Needs Attention
+C075946,Pune,casual,5.0,4,5043.0,4,4,4,12,Champion
+C043905,Delhi,casual,561.0,3,2716.0,1,3,3,7,Loyal
+C094839,Bangalore,casual,84.0,3,2255.0,4,3,3,10,Champion
+C001811,Mumbai,casual,233.0,2,1358.0,2,2,2,6,Needs Attention
+C081725,Pune,casual,490.0,1,727.0,1,1,1,3,Needs Attention
+C082925,Hyderabad,casual,131.0,1,937.0,3,1,1,5,New/Promising
+C065083,Mumbai,casual,512.0,1,782.65,1,1,1,3,Needs Attention
+C043215,Hyderabad,casual,532.0,1,538.0,1,1,1,3,Needs Attention
+C027702,Mumbai,casual,493.0,4,4378.62,1,4,4,9,Loyal
+C076489,Pune,regular,76.0,4,3758.97,4,4,4,12,Champion
+C098228,Hyderabad,casual,691.0,1,1468.04,1,2,2,5,Needs Attention
+C089059,Delhi,regular,183.0,3,2926.0,3,3,3,9,Champion
+C049008,Delhi,casual,47.0,1,1450.0,4,2,2,8,New/Promising
+C030024,Hyderabad,casual,877.0,2,1225.0,1,2,2,5,Needs Attention
+C053586,Mumbai,regular,260.0,4,4159.22,2,4,4,10,Loyal
+C041633,Mumbai,loyal,3.0,17,14637.51,4,4,4,12,Champion
+C006136,Delhi,casual,670.0,2,2865.0,1,3,3,7,Loyal
+C047840,Hyderabad,casual,878.0,1,1198.0,1,1,2,4,Needs Attention
+C005134,Mumbai,casual,368.0,1,1254.0,2,1,2,5,Needs Attention
+C039509,Pune,regular,158.0,11,11281.37,3,4,4,11,Champion
+C045364,Delhi,casual,29.0,3,3745.0,4,3,4,11,Champion
+C082251,Bangalore,casual,357.0,2,1614.0,2,2,2,6,Needs Attention
+C086792,Bangalore,casual,130.0,2,934.0,3,2,1,6,New/Promising
+C009300,Mumbai,regular,6.0,6,7315.0,4,4,4,12,Champion
+C083465,Pune,casual,936.0,1,972.0,1,1,1,3,Needs Attention
+C044870,Delhi,casual,584.0,3,3905.57,1,3,4,8,Loyal
+C074048,Mumbai,casual,98.0,5,4807.0,3,4,4,11,Champion
+C057639,Bangalore,casual,1230.0,1,1786.0,1,2,2,5,Needs Attention
+C070098,Hyderabad,casual,141.0,2,1501.0,3,2,2,7,New/Promising
+C092053,Delhi,casual,537.0,3,2933.0,1,3,3,7,Loyal
+C024059,Hyderabad,casual,1162.0,1,965.0,1,1,1,3,Needs Attention
+C067376,Delhi,casual,10.0,2,1202.0,4,2,2,8,New/Promising
+C012293,Hyderabad,casual,250.0,1,1442.0,2,2,2,6,Needs Attention
+C090652,Hyderabad,casual,453.0,1,450.0,2,1,1,4,Needs Attention
+C047839,Hyderabad,regular,126.0,10,9926.0,3,4,4,11,Champion
+C044204,Pune,casual,696.0,1,1111.0,1,1,2,4,Needs Attention
+C075650,Mumbai,casual,364.0,3,2391.0,2,3,3,8,Loyal
+C002117,Mumbai,regular,72.0,5,4092.0,4,4,4,12,Champion
+C025116,Delhi,casual,236.0,1,2496.0,2,2,3,7,Needs Attention
+C048787,Pune,casual,162.0,1,320.0,3,1,1,5,New/Promising
+C056598,Hyderabad,casual,128.0,2,2088.0,3,2,3,8,New/Promising
+C025430,Hyderabad,casual,294.0,2,2603.0,2,3,3,8,Loyal
+C082766,Hyderabad,casual,1116.0,1,994.0,1,1,1,3,Needs Attention
+C079412,Hyderabad,casual,312.0,1,1309.0,2,1,2,5,Needs Attention
+C042492,Pune,regular,348.0,6,7000.0,2,4,4,10,Loyal
+C006145,Delhi,casual,469.0,1,1668.0,2,2,2,6,Needs Attention
+C015781,Mumbai,loyal,14.0,21,16986.93,4,4,4,12,Champion
+C077135,Bangalore,casual,1075.0,1,50.0,1,1,1,3,Needs Attention
+C019681,Pune,casual,175.0,2,1748.0,3,2,2,7,New/Promising
+C067650,Bangalore,loyal,85.0,11,10305.7,4,4,4,12,Champion
+C027333,Mumbai,casual,45.0,3,2770.0,4,3,3,10,Champion
+C079356,Pune,casual,65.0,2,2521.0,4,3,3,10,Champion
+C084838,Hyderabad,casual,875.0,1,593.0,1,1,1,3,Needs Attention
+C006367,Bangalore,casual,44.0,3,2475.0,4,3,3,10,Champion
+C074600,Bangalore,casual,472.0,1,1063.0,2,1,1,4,Needs Attention
+C006718,Delhi,casual,780.0,2,1805.0,1,2,2,5,Needs Attention
+C011183,Pune,casual,53.0,3,2850.0,4,3,3,10,Champion
+C022148,Pune,loyal,307.0,8,6149.47,2,4,4,10,Loyal
+C072332,Hyderabad,casual,606.0,2,1399.66,1,2,2,5,Needs Attention
+C020828,Delhi,casual,56.0,3,4555.0,4,3,4,11,Champion
+C022622,Mumbai,casual,325.0,1,744.0,2,1,1,4,Needs Attention
+C020420,Delhi,casual,1222.0,1,417.0,1,1,1,3,Needs Attention
+C071560,Mumbai,regular,3.0,4,3728.0,4,4,4,12,Champion
+C031774,Hyderabad,casual,350.0,1,523.0,2,1,1,4,Needs Attention
+C014851,Bangalore,regular,141.0,11,8246.0,3,4,4,11,Champion
+C070603,Hyderabad,casual,174.0,6,5753.47,3,4,4,11,Champion
+C034038,Hyderabad,casual,777.0,1,1784.0,1,2,2,5,Needs Attention
+C091892,Mumbai,casual,101.0,2,1354.0,3,2,2,7,New/Promising
+C076144,Hyderabad,casual,379.0,1,646.0,2,1,1,4,Needs Attention
+C054322,Delhi,loyal,158.0,16,11960.1,3,4,4,11,Champion
+C037935,Pune,casual,290.0,1,1240.0,2,1,2,5,Needs Attention
+C021617,Delhi,regular,48.0,3,3638.47,4,3,4,11,Champion
+C013446,Mumbai,casual,274.0,1,706.22,2,1,1,4,Needs Attention
+C073298,Mumbai,casual,160.0,2,2467.0,3,3,3,9,Champion
+C084303,Delhi,regular,221.0,7,5088.0,3,4,4,11,Champion
+C088790,Hyderabad,loyal,58.0,16,15127.94,4,4,4,12,Champion
+C069899,Mumbai,regular,79.0,8,4807.47,4,4,4,12,Champion
+C050399,Mumbai,casual,283.0,1,759.0,2,1,1,4,Needs Attention
+C007565,Mumbai,casual,404.0,1,702.0,2,1,1,4,Needs Attention
+C085216,Pune,casual,621.0,1,320.0,1,1,1,3,Needs Attention
+C072898,Mumbai,casual,447.0,1,778.0,2,1,1,4,Needs Attention
+C027681,Pune,casual,546.0,1,229.0,1,1,1,3,Needs Attention
+C083269,Delhi,regular,45.0,7,7070.0,4,4,4,12,Champion
+C022502,Bangalore,casual,119.0,1,882.0,3,1,1,5,New/Promising
+C089999,Hyderabad,casual,661.0,4,3474.0,1,4,3,8,Loyal
+C004958,Delhi,casual,323.0,3,2109.0,2,3,3,8,Loyal
+C016032,Delhi,casual,863.0,1,50.0,1,1,1,3,Needs Attention
+C017220,Mumbai,casual,286.0,1,1681.0,2,2,2,6,Needs Attention
+C061312,Bangalore,casual,368.0,2,1160.68,2,2,2,6,Needs Attention
+C071269,Delhi,casual,304.0,2,1650.47,2,2,2,6,Needs Attention
+C080474,Mumbai,casual,513.0,3,2350.0,1,3,3,7,Loyal
+C022830,Delhi,casual,481.0,1,928.08,1,1,1,3,Needs Attention
+C019930,Delhi,casual,714.0,2,1367.96,1,2,2,5,Needs Attention
+C035604,Hyderabad,casual,459.0,1,1525.0,2,2,2,6,Needs Attention
+C070966,Hyderabad,regular,205.0,6,3895.0,3,4,4,11,Champion
+C061281,Hyderabad,casual,291.0,1,1207.0,2,1,2,5,Needs Attention
+C058283,Bangalore,casual,693.0,2,1706.0,1,2,2,5,Needs Attention
+C058230,Delhi,casual,260.0,3,1378.0,2,3,2,7,At Risk
+C094573,Bangalore,regular,63.0,5,5239.0,4,4,4,12,Champion
+C068453,Mumbai,casual,30.0,3,3522.0,4,3,3,10,Champion
+C069490,Mumbai,casual,249.0,3,2440.0,2,3,3,8,Loyal
+C057077,Delhi,casual,414.0,1,741.0,2,1,1,4,Needs Attention
+C012188,Pune,regular,48.0,8,8873.02,4,4,4,12,Champion
+C058349,Bangalore,casual,179.0,1,1008.0,3,1,1,5,New/Promising
+C020682,Bangalore,casual,658.0,1,450.0,1,1,1,3,Needs Attention
+C068788,Bangalore,casual,1466.0,1,1014.0,1,1,1,3,Needs Attention
+C059102,Pune,casual,465.0,1,244.0,2,1,1,4,Needs Attention
+C006824,Pune,regular,344.0,6,3765.49,2,4,4,10,Loyal
+C036170,Delhi,loyal,30.0,17,13846.03,4,4,4,12,Champion
+C055274,Delhi,casual,189.0,2,1990.0,3,2,3,8,New/Promising
+C060750,Hyderabad,casual,506.0,1,313.0,1,1,1,3,Needs Attention
+C094903,Delhi,casual,255.0,1,1295.0,2,1,2,5,Needs Attention
+C006482,Bangalore,casual,80.0,1,1200.0,4,1,2,7,New/Promising
+C074952,Hyderabad,regular,105.0,5,4870.94,3,4,4,11,Champion
+C019547,Delhi,regular,172.0,3,3216.0,3,3,3,9,Champion
+C003374,Pune,regular,218.0,2,1602.0,3,2,2,7,New/Promising
+C059193,Mumbai,regular,149.0,7,5505.8,3,4,4,11,Champion
+C046864,Hyderabad,casual,204.0,1,923.0,3,1,1,5,New/Promising
+C053748,Mumbai,regular,171.0,5,5574.0,3,4,4,11,Champion
+C071774,Bangalore,regular,1264.0,1,604.0,1,1,1,3,Needs Attention
+C080018,Pune,regular,143.0,3,2522.0,3,3,3,9,Champion
+C017613,Hyderabad,regular,50.0,7,6729.0,4,4,4,12,Champion
+C023739,Mumbai,regular,483.0,4,4648.94,1,4,4,9,Loyal
+C037653,Pune,casual,289.0,2,1318.74,2,2,2,6,Needs Attention
+C093983,Pune,casual,135.0,1,510.0,3,1,1,5,New/Promising
+C032498,Mumbai,casual,340.0,1,294.0,2,1,1,4,Needs Attention
+C086499,Mumbai,regular,151.0,5,3502.0,3,4,3,10,Champion
+C097347,Bangalore,casual,988.0,2,1987.0,1,2,3,6,Needs Attention
+C055065,Hyderabad,casual,11.0,2,944.0,4,2,1,7,New/Promising
+C001338,Hyderabad,casual,151.0,1,989.0,3,1,1,5,New/Promising
+C065803,Hyderabad,casual,282.0,2,2948.0,2,3,3,8,Loyal
+C013257,Delhi,casual,142.0,1,451.0,3,1,1,5,New/Promising
+C088470,Delhi,casual,26.0,4,4192.0,4,4,4,12,Champion
+C095203,Delhi,regular,459.0,1,1806.0,2,2,2,6,Needs Attention
+C091578,Delhi,casual,40.0,6,6655.0,4,4,4,12,Champion
+C062223,Hyderabad,casual,255.0,1,1716.0,2,2,2,6,Needs Attention
+C081818,Bangalore,regular,593.0,3,2982.0,1,3,3,7,Loyal
+C081870,Mumbai,regular,449.0,3,2263.0,2,3,3,8,Loyal
+C097117,Bangalore,regular,86.0,7,6755.0,4,4,4,12,Champion
+C004470,Hyderabad,regular,609.0,2,2412.0,1,3,3,7,Loyal
+C046855,Bangalore,casual,284.0,2,846.0,2,2,1,5,Needs Attention
+C012992,Delhi,regular,179.0,1,520.0,3,1,1,5,New/Promising
+C006137,Hyderabad,casual,293.0,1,40.0,2,1,1,4,Needs Attention
+C075332,Pune,regular,14.0,5,3899.0,4,4,4,12,Champion
+C033818,Pune,casual,377.0,1,1081.0,2,1,2,5,Needs Attention
+C047291,Hyderabad,regular,75.0,5,3764.0,4,4,4,12,Champion
+C042031,Delhi,casual,1092.0,1,220.0,1,1,1,3,Needs Attention
+C067418,Pune,regular,320.0,6,5498.0,2,4,4,10,Loyal
+C078009,Pune,casual,51.0,1,1015.0,4,1,1,6,New/Promising
+C063442,Mumbai,loyal,183.0,15,14501.51,3,4,4,11,Champion
+C042664,Pune,regular,43.0,7,7969.0,4,4,4,12,Champion
+C063902,Delhi,casual,450.0,1,1413.0,2,2,2,6,Needs Attention
+C085944,Bangalore,regular,297.0,4,4709.47,2,4,4,10,Loyal
+C070298,Pune,loyal,57.0,14,11332.3,4,4,4,12,Champion
+C049253,Bangalore,casual,110.0,3,3365.0,3,3,3,9,Champion
+C067402,Hyderabad,casual,158.0,2,823.0,3,2,1,6,New/Promising
+C026242,Mumbai,loyal,244.0,8,6809.08,2,4,4,10,Loyal
+C026344,Hyderabad,casual,259.0,4,4731.22,2,4,4,10,Loyal
+C016129,Bangalore,casual,203.0,1,2146.0,3,2,3,8,New/Promising
+C054416,Bangalore,casual,1005.0,1,1497.41,1,2,2,5,Needs Attention
+C053288,Bangalore,regular,293.0,2,1752.47,2,2,2,6,Needs Attention
+C013341,Bangalore,regular,575.0,1,628.0,1,1,1,3,Needs Attention
+C014525,Delhi,casual,697.0,1,1577.0,1,2,2,5,Needs Attention
+C079060,Mumbai,casual,181.0,1,291.0,3,1,1,5,New/Promising
+C058842,Delhi,casual,75.0,2,1051.37,4,2,1,7,New/Promising
+C095657,Bangalore,casual,260.0,1,1102.0,2,1,2,5,Needs Attention
+C050439,Delhi,casual,213.0,1,676.0,3,1,1,5,New/Promising
+C012296,Delhi,regular,24.0,1,831.0,4,1,1,6,New/Promising
+C009162,Bangalore,casual,501.0,3,2494.0,1,3,3,7,Loyal
+C040150,Hyderabad,casual,546.0,1,1013.0,1,1,1,3,Needs Attention
+C013769,Hyderabad,casual,281.0,2,1504.0,2,2,2,6,Needs Attention
+C004039,Pune,casual,19.0,2,2210.0,4,2,3,9,New/Promising
+C077593,Bangalore,casual,285.0,2,1701.0,2,2,2,6,Needs Attention
+C081819,Pune,casual,138.0,3,2335.0,3,3,3,9,Champion
+C027528,Pune,casual,632.0,1,383.0,1,1,1,3,Needs Attention
+C083016,Delhi,casual,91.0,1,944.0,3,1,1,5,New/Promising
+C024244,Hyderabad,loyal,23.0,16,16333.96,4,4,4,12,Champion
+C069992,Hyderabad,casual,573.0,3,2897.73,1,3,3,7,Loyal
+C059430,Pune,casual,452.0,1,1492.0,2,2,2,6,Needs Attention
+C059576,Pune,regular,537.0,7,6592.0,1,4,4,9,Loyal
+C091843,Hyderabad,loyal,8.0,16,13365.0,4,4,4,12,Champion
+C048229,Hyderabad,regular,98.0,6,4949.91,3,4,4,11,Champion
+C030939,Mumbai,regular,460.0,4,4350.48,2,4,4,10,Loyal
+C080581,Hyderabad,casual,159.0,3,1286.48,3,3,2,8,Needs Attention
+C025372,Delhi,casual,431.0,2,1743.0,2,2,2,6,Needs Attention
+C017624,Mumbai,regular,106.0,3,3262.0,3,3,3,9,Champion
+C068651,Pune,loyal,68.0,13,14336.09,4,4,4,12,Champion
+C024076,Bangalore,casual,105.0,2,1200.0,3,2,2,7,New/Promising
+C034949,Bangalore,regular,88.0,2,825.0,4,2,1,7,New/Promising
+C010598,Pune,casual,652.0,2,675.0,1,2,1,4,Needs Attention
+C006516,Delhi,casual,217.0,1,506.0,3,1,1,5,New/Promising
+C090274,Bangalore,regular,8.0,8,5639.92,4,4,4,12,Champion
+C082236,Mumbai,casual,721.0,1,1254.43,1,1,2,4,Needs Attention
+C072347,Mumbai,casual,238.0,2,819.0,2,2,1,5,Needs Attention
+C000988,Delhi,casual,37.0,1,580.0,4,1,1,6,New/Promising
+C073950,Delhi,casual,1062.0,1,244.0,1,1,1,3,Needs Attention
+C046533,Pune,loyal,64.0,19,20562.0,4,4,4,12,Champion
+C067546,Delhi,casual,18.0,1,908.0,4,1,1,6,New/Promising
+C023003,Bangalore,regular,82.0,6,5418.0,4,4,4,12,Champion
+C037817,Hyderabad,casual,633.0,3,3493.0,1,3,3,7,Loyal
+C079375,Mumbai,casual,45.0,3,1407.0,4,3,2,9,Needs Attention
+C027925,Hyderabad,regular,493.0,3,1960.28,1,3,2,6,At Risk
+C062437,Bangalore,casual,138.0,3,4430.0,3,3,4,10,Champion
+C073943,Delhi,regular,177.0,5,4304.0,3,4,4,11,Champion
+C052188,Bangalore,regular,476.0,7,7282.9,1,4,4,9,Loyal
+C093495,Mumbai,casual,744.0,1,541.82,1,1,1,3,Needs Attention
+C079089,Pune,regular,115.0,9,12669.97,3,4,4,11,Champion
+C033139,Delhi,casual,71.0,2,938.0,4,2,1,7,New/Promising
+C056414,Bangalore,loyal,205.0,14,12417.0,3,4,4,11,Champion
+C079982,Bangalore,regular,152.0,6,5000.0,3,4,4,11,Champion
+C050084,Bangalore,casual,127.0,2,1625.0,3,2,2,7,New/Promising
+C041598,Hyderabad,casual,1152.0,2,1182.47,1,2,2,5,Needs Attention
+C073868,Delhi,casual,314.0,3,2223.0,2,3,3,8,Loyal
+C050566,Bangalore,casual,974.0,1,1708.0,1,2,2,5,Needs Attention
+C015420,Mumbai,regular,156.0,5,4239.0,3,4,4,11,Champion
+C086718,Hyderabad,casual,375.0,2,2742.0,2,3,3,8,Loyal
+C058509,Mumbai,casual,303.0,2,1482.0,2,2,2,6,Needs Attention
+C010807,Mumbai,casual,975.0,2,2371.0,1,3,3,7,Loyal
+C024875,Bangalore,casual,67.0,2,2465.0,4,3,3,10,Champion
+C091249,Pune,casual,592.0,2,3486.0,1,3,3,7,Loyal
+C036734,Delhi,casual,319.0,2,1032.0,2,2,1,5,Needs Attention
+C099377,Delhi,regular,391.0,2,2105.0,2,2,3,7,Needs Attention
+C091552,Hyderabad,casual,23.0,3,3618.0,4,3,4,11,Champion
+C001509,Pune,casual,137.0,1,486.0,3,1,1,5,New/Promising
+C095640,Delhi,loyal,64.0,12,10705.47,4,4,4,12,Champion
+C067556,Bangalore,casual,199.0,2,2038.0,3,2,3,8,New/Promising
+C053087,Pune,regular,265.0,5,3760.47,2,4,4,10,Loyal
+C043722,Pune,casual,,1,226.0,4,1,1,6,New/Promising
+C034925,Pune,regular,10.0,5,3767.97,4,4,4,12,Champion
+C093071,Hyderabad,casual,351.0,2,1678.0,2,2,2,6,Needs Attention
+C001342,Mumbai,loyal,51.0,19,14799.66,4,4,4,12,Champion
+C040985,Delhi,loyal,10.0,7,4070.62,4,4,4,12,Champion
+C038402,Bangalore,casual,409.0,2,738.0,2,2,1,5,Needs Attention
+C094924,Pune,casual,319.0,1,563.0,2,1,1,4,Needs Attention
+C048131,Pune,regular,64.0,7,6887.0,4,4,4,12,Champion
+C062765,Delhi,casual,112.0,1,432.0,3,1,1,5,New/Promising
+C065961,Hyderabad,casual,114.0,1,255.0,3,1,1,5,New/Promising
+C059234,Mumbai,regular,44.0,4,2333.0,4,3,3,10,Champion
+C095329,Delhi,regular,17.0,4,4250.0,4,4,4,12,Champion
+C007248,Hyderabad,casual,24.0,3,3056.47,4,3,3,10,Champion
+C020587,Mumbai,casual,31.0,2,1706.0,4,2,2,8,New/Promising
+C041647,Mumbai,casual,340.0,2,1286.9,2,2,2,6,Needs Attention
+C093893,Mumbai,casual,80.0,1,1100.0,4,1,2,7,New/Promising
+C064461,Bangalore,casual,558.0,1,730.0,1,1,1,3,Needs Attention
+C098075,Delhi,regular,3.0,9,8879.93,4,4,4,12,Champion
+C026099,Delhi,casual,724.0,3,2760.82,1,3,3,7,Loyal
+C012887,Mumbai,casual,958.0,1,332.0,1,1,1,3,Needs Attention
+C063763,Delhi,casual,761.0,1,1539.0,1,2,2,5,Needs Attention
+C023845,Pune,casual,1074.0,2,874.47,1,2,1,4,Needs Attention
+C050269,Pune,casual,420.0,3,3879.0,2,3,4,9,Loyal
+C002451,Mumbai,casual,,1,1018.0,4,1,1,6,New/Promising
+C028852,Pune,regular,129.0,6,5563.0,3,4,4,11,Champion
+C048633,Pune,casual,12.0,2,985.0,4,2,1,7,New/Promising
+C085817,Bangalore,casual,13.0,4,3916.0,4,4,4,12,Champion
+C086736,Bangalore,casual,630.0,1,830.0,1,1,1,3,Needs Attention
+C068036,Hyderabad,casual,402.0,2,1522.0,2,2,2,6,Needs Attention
+C018287,Delhi,casual,110.0,1,894.0,3,1,1,5,New/Promising
+C028734,Pune,casual,198.0,2,1439.0,3,2,2,7,New/Promising
+C044045,Mumbai,casual,39.0,4,5630.0,4,4,4,12,Champion
+C084249,Pune,casual,405.0,4,2674.0,2,3,3,8,Loyal
+C019415,Bangalore,regular,282.0,2,3260.0,2,3,3,8,Loyal
+C073825,Mumbai,casual,162.0,2,1433.0,3,2,2,7,New/Promising
+C018175,Pune,regular,125.0,4,4071.0,3,4,4,11,Champion
+C073637,Bangalore,casual,335.0,1,890.0,2,1,1,4,Needs Attention
+C030343,Pune,regular,5.0,7,5785.72,4,4,4,12,Champion
+C026457,Pune,casual,114.0,2,1100.0,3,2,2,7,New/Promising
+C094039,Bangalore,casual,558.0,1,1473.0,1,2,2,5,Needs Attention
+C098412,Mumbai,regular,33.0,4,6233.0,4,4,4,12,Champion
+C065482,Bangalore,loyal,173.0,17,15707.86,3,4,4,11,Champion
+C093300,Pune,regular,173.0,4,3437.78,3,4,3,10,Champion
+C058334,Mumbai,casual,172.0,2,1502.0,3,2,2,7,New/Promising
+C081575,Mumbai,casual,156.0,1,455.0,3,1,1,5,New/Promising
+C018492,Delhi,loyal,230.0,5,4792.0,3,4,4,11,Champion
+C021990,Hyderabad,regular,29.0,4,2566.0,4,3,3,10,Champion
+C030769,Delhi,regular,515.0,6,4394.64,1,4,4,9,Loyal
+C033653,Pune,regular,9.0,5,4248.0,4,4,4,12,Champion
+C025934,Mumbai,casual,401.0,1,1143.0,2,1,2,5,Needs Attention
+C087620,Mumbai,regular,55.0,3,3023.0,4,3,3,10,Champion
+C020722,Mumbai,casual,47.0,2,1175.0,4,2,2,8,New/Promising
+C028940,Mumbai,regular,56.0,2,1446.0,4,2,2,8,New/Promising
+C073193,Pune,casual,73.0,4,4201.0,4,4,4,12,Champion
+C019817,Bangalore,regular,235.0,5,3014.62,2,4,3,9,Loyal
+C057609,Hyderabad,casual,141.0,2,3295.0,3,3,3,9,Champion
+C034069,Hyderabad,casual,181.0,1,293.0,3,1,1,5,New/Promising
+C063938,Bangalore,loyal,59.0,11,10273.03,4,4,4,12,Champion
+C058926,Hyderabad,casual,72.0,1,676.0,4,1,1,6,New/Promising
+C074531,Hyderabad,casual,326.0,1,1454.0,2,2,2,6,Needs Attention
+C069693,Bangalore,casual,524.0,2,911.0,1,2,1,4,Needs Attention
+C039521,Mumbai,regular,261.0,7,5330.67,2,4,4,10,Loyal
+C013046,Bangalore,casual,811.0,1,516.0,1,1,1,3,Needs Attention
+C036121,Delhi,casual,1116.0,1,490.0,1,1,1,3,Needs Attention
+C069710,Bangalore,casual,532.0,4,5251.64,1,4,4,9,Loyal
+C066072,Pune,casual,1455.0,1,1061.34,1,1,1,3,Needs Attention
+C084840,Delhi,casual,72.0,2,2008.0,4,2,3,9,New/Promising
+C011099,Bangalore,casual,177.0,3,1890.0,3,3,2,8,Needs Attention
+C086998,Mumbai,regular,598.0,1,1051.0,1,1,1,3,Needs Attention
+C008374,Hyderabad,casual,355.0,4,4237.0,2,4,4,10,Loyal
+C057835,Delhi,casual,313.0,1,1722.0,2,2,2,6,Needs Attention
+C002629,Bangalore,casual,802.0,2,2571.0,1,3,3,7,Loyal
+C029511,Hyderabad,regular,37.0,3,2096.0,4,3,3,10,Champion
+C098402,Pune,regular,267.0,5,3674.0,2,4,4,10,Loyal
+C029149,Hyderabad,casual,167.0,2,2378.0,3,3,3,9,Champion
+C018236,Pune,casual,318.0,3,3728.47,2,3,4,9,Loyal
+C002281,Bangalore,regular,100.0,5,3058.0,3,4,3,10,Champion
+C072822,Delhi,casual,83.0,3,1966.0,4,3,2,9,Needs Attention
+C081661,Pune,casual,772.0,2,1896.0,1,2,2,5,Needs Attention
+C093363,Delhi,regular,236.0,4,4783.0,2,4,4,10,Loyal
+C058880,Delhi,casual,748.0,1,362.0,1,1,1,3,Needs Attention
+C030499,Delhi,casual,13.0,1,458.0,4,1,1,6,New/Promising
+C071760,Delhi,regular,74.0,6,6051.96,4,4,4,12,Champion
+C067970,Hyderabad,casual,6.0,3,2711.0,4,3,3,10,Champion
+C014915,Delhi,casual,3.0,8,8216.0,4,4,4,12,Champion
+C067574,Mumbai,casual,25.0,1,1318.0,4,2,2,8,New/Promising
+C028461,Pune,casual,315.0,2,2775.0,2,3,3,8,Loyal
+C098697,Delhi,casual,41.0,2,1916.0,4,2,2,8,New/Promising
+C030060,Bangalore,casual,284.0,2,1699.0,2,2,2,6,Needs Attention
+C059607,Bangalore,casual,552.0,3,2679.0,1,3,3,7,Loyal
+C079783,Mumbai,casual,995.0,1,834.0,1,1,1,3,Needs Attention
+C094283,Mumbai,regular,39.0,5,4199.0,4,4,4,12,Champion
+C075555,Delhi,regular,48.0,5,4140.0,4,4,4,12,Champion
+C086656,Hyderabad,casual,235.0,1,862.0,2,1,1,4,Needs Attention
+C083253,Mumbai,casual,299.0,1,304.0,2,1,1,4,Needs Attention
+C006997,Mumbai,casual,9.0,2,1436.0,4,2,2,8,New/Promising
+C057834,Bangalore,casual,54.0,3,3846.0,4,3,4,11,Champion
+C081687,Pune,regular,193.0,1,590.0,3,1,1,5,New/Promising
+C015097,Pune,casual,436.0,1,1395.32,2,2,2,6,Needs Attention
+C098517,Pune,loyal,40.0,21,18494.0,4,4,4,12,Champion
+C060066,Hyderabad,loyal,11.0,11,10888.0,4,4,4,12,Champion
+C009337,Pune,regular,292.0,5,4594.86,2,4,4,10,Loyal
+C051816,Hyderabad,casual,719.0,3,3120.82,1,3,3,7,Loyal
+C030524,Pune,regular,451.0,8,8048.62,2,4,4,10,Loyal
+C029244,Hyderabad,casual,30.0,2,985.0,4,2,1,7,New/Promising
+C037208,Pune,casual,722.0,2,2655.82,1,3,3,7,Loyal
+C033372,Hyderabad,regular,476.0,2,1484.0,1,2,2,5,Needs Attention
+C031331,Bangalore,casual,23.0,2,2250.0,4,3,3,10,Champion
+C081378,Mumbai,casual,621.0,3,1929.0,1,3,2,6,At Risk
+C017412,Hyderabad,casual,30.0,2,2126.0,4,2,3,9,New/Promising
+C002382,Mumbai,casual,180.0,1,1228.0,3,1,2,6,New/Promising
+C043598,Bangalore,casual,10.0,1,999.0,4,1,1,6,New/Promising
+C053522,Bangalore,casual,467.0,1,1393.0,2,2,2,6,Needs Attention
+C004177,Mumbai,regular,115.0,10,8016.0,3,4,4,11,Champion
+C009980,Pune,regular,129.0,8,7845.33,3,4,4,11,Champion
+C093388,Bangalore,casual,652.0,2,1368.0,1,2,2,5,Needs Attention
+C039880,Pune,casual,210.0,2,2377.0,3,3,3,9,Champion
+C037239,Delhi,casual,4.0,4,2903.47,4,3,3,10,Champion
+C025296,Mumbai,casual,1508.0,1,211.0,1,1,1,3,Needs Attention
+C066272,Mumbai,casual,9.0,4,2698.0,4,3,3,10,Champion
+C088695,Mumbai,regular,22.0,6,5308.72,4,4,4,12,Champion
+C075258,Bangalore,casual,365.0,3,1330.01,2,3,2,7,At Risk
+C050514,Delhi,casual,648.0,2,2293.0,1,3,3,7,Loyal
+C029113,Bangalore,casual,93.0,1,398.0,3,1,1,5,New/Promising
+C004932,Mumbai,casual,800.0,1,905.0,1,1,1,3,Needs Attention
+C027413,Delhi,casual,400.0,4,4371.43,2,4,4,10,Loyal
+C005489,Mumbai,casual,329.0,2,2204.47,2,2,3,7,Needs Attention
+C022916,Delhi,casual,283.0,5,3424.93,2,4,3,9,Loyal
+C073253,Hyderabad,casual,4.0,3,2655.47,4,3,3,10,Champion
+C036330,Pune,casual,735.0,2,1866.82,1,2,2,5,Needs Attention
+C002063,Delhi,casual,674.0,1,760.0,1,1,1,3,Needs Attention
+C003917,Hyderabad,casual,539.0,1,996.0,1,1,1,3,Needs Attention
+C066221,Mumbai,casual,431.0,3,3174.0,2,3,3,8,Loyal
+C086824,Hyderabad,casual,4.0,4,3136.0,4,4,3,11,Champion
+C038941,Delhi,loyal,247.0,14,11841.29,2,4,4,10,Loyal
+C030124,Delhi,casual,75.0,1,761.0,4,1,1,6,New/Promising
+C066614,Delhi,loyal,70.0,11,10315.96,4,4,4,12,Champion
+C097822,Pune,casual,674.0,1,1266.0,1,1,2,4,Needs Attention
+C002504,Hyderabad,regular,180.0,4,4657.0,3,4,4,11,Champion
+C018916,Delhi,casual,359.0,1,1030.0,2,1,1,4,Needs Attention
+C096280,Bangalore,casual,275.0,2,592.0,2,2,1,5,Needs Attention
+C015298,Bangalore,casual,206.0,3,2427.01,3,3,3,9,Champion
+C084026,Hyderabad,casual,1050.0,1,1302.0,1,1,2,4,Needs Attention
+C029977,Hyderabad,regular,735.0,3,4137.26,1,3,4,8,Loyal
+C055892,Hyderabad,regular,112.0,6,5104.43,3,4,4,11,Champion
+C082062,Bangalore,regular,527.0,2,1292.0,1,2,2,5,Needs Attention
+C027562,Bangalore,casual,402.0,2,868.95,2,2,1,5,Needs Attention
+C033968,Pune,regular,690.0,1,658.0,1,1,1,3,Needs Attention
+C019939,Hyderabad,casual,825.0,1,1682.0,1,2,2,5,Needs Attention
+C091673,Mumbai,loyal,6.0,16,13938.13,4,4,4,12,Champion
+C031315,Pune,casual,226.0,1,302.0,3,1,1,5,New/Promising
+C054005,Mumbai,regular,405.0,1,720.0,2,1,1,4,Needs Attention
+C057397,Mumbai,casual,522.0,1,1232.62,1,1,2,4,Needs Attention
+C036882,Bangalore,regular,134.0,8,5978.0,3,4,4,11,Champion
+C087204,Hyderabad,casual,138.0,1,868.0,3,1,1,5,New/Promising
+C072067,Pune,casual,59.0,2,3098.0,4,3,3,10,Champion
+C031901,Bangalore,casual,126.0,2,1171.0,3,2,2,7,New/Promising
+C023104,Mumbai,loyal,52.0,16,13196.99,4,4,4,12,Champion
+C028591,Hyderabad,casual,73.0,1,1624.0,4,2,2,8,New/Promising
+C029616,Mumbai,casual,144.0,3,3203.48,3,3,3,9,Champion
+C013159,Hyderabad,casual,272.0,1,1158.0,2,1,2,5,Needs Attention
+C089296,Mumbai,casual,940.0,1,355.86,1,1,1,3,Needs Attention
+C063892,Mumbai,casual,1297.0,1,713.0,1,1,1,3,Needs Attention
+C046117,Pune,casual,108.0,1,687.0,3,1,1,5,New/Promising
+C030184,Hyderabad,regular,99.0,4,4351.0,3,4,4,11,Champion
+C083908,Hyderabad,casual,622.0,1,961.0,1,1,1,3,Needs Attention
+C064724,Pune,casual,558.0,2,1640.0,1,2,2,5,Needs Attention
+C082019,Delhi,casual,2.0,1,765.0,4,1,1,6,New/Promising
+C012627,Delhi,casual,112.0,5,4468.0,3,4,4,11,Champion
+C013521,Mumbai,casual,614.0,1,1273.0,1,1,2,4,Needs Attention
+C088372,Mumbai,regular,228.0,1,1030.0,3,1,1,5,New/Promising
+C007232,Mumbai,casual,867.0,1,459.72,1,1,1,3,Needs Attention
+C035050,Mumbai,loyal,16.0,12,12074.0,4,4,4,12,Champion
+C035043,Bangalore,casual,682.0,2,1417.0,1,2,2,5,Needs Attention
+C005492,Delhi,casual,95.0,2,1352.0,3,2,2,7,New/Promising
+C083114,Pune,casual,573.0,2,1299.0,1,2,2,5,Needs Attention
+C049167,Hyderabad,casual,852.0,1,1112.0,1,1,2,4,Needs Attention
+C098348,Pune,casual,409.0,2,2105.0,2,2,3,7,Needs Attention
+C045529,Delhi,loyal,28.0,16,17884.65,4,4,4,12,Champion
+C053272,Delhi,casual,,1,744.0,4,1,1,6,New/Promising
+C043815,Bangalore,casual,425.0,2,2162.0,2,2,3,7,Needs Attention
+C040775,Delhi,casual,605.0,3,2499.0,1,3,3,7,Loyal
+C012427,Pune,regular,19.0,5,4999.0,4,4,4,12,Champion
+C018355,Hyderabad,regular,459.0,2,1520.0,2,2,2,6,Needs Attention
+C065107,Pune,casual,279.0,4,5188.0,2,4,4,10,Loyal
+C046724,Bangalore,casual,785.0,2,1432.0,1,2,2,5,Needs Attention
+C089733,Delhi,regular,6.0,5,4411.0,4,4,4,12,Champion
+C031346,Pune,casual,259.0,2,1914.22,2,2,2,6,Needs Attention
+C069013,Delhi,regular,196.0,2,1968.0,3,2,2,7,New/Promising
+C008861,Bangalore,regular,46.0,10,8103.0,4,4,4,12,Champion
+C001255,Hyderabad,casual,447.0,2,1048.0,2,2,1,5,Needs Attention
+C013681,Bangalore,regular,7.0,6,6171.0,4,4,4,12,Champion
+C061107,Mumbai,regular,356.0,5,5036.0,2,4,4,10,Loyal
+C045740,Hyderabad,regular,177.0,4,2849.48,3,3,3,9,Champion
+C060893,Mumbai,casual,267.0,3,2530.99,2,3,3,8,Loyal
+C090452,Hyderabad,casual,300.0,1,1528.0,2,2,2,6,Needs Attention
+C074762,Bangalore,casual,,1,1036.0,4,1,1,6,New/Promising
+C053627,Hyderabad,casual,956.0,1,843.96,1,1,1,3,Needs Attention
+C054941,Pune,regular,248.0,9,5943.24,2,4,4,10,Loyal
+C005513,Pune,casual,40.0,3,4158.0,4,3,4,11,Champion
+C025139,Mumbai,casual,110.0,5,5696.0,3,4,4,11,Champion
+C037187,Pune,regular,363.0,5,4101.0,2,4,4,10,Loyal
+C026928,Bangalore,casual,285.0,1,1121.0,2,1,2,5,Needs Attention
+C033853,Hyderabad,loyal,58.0,12,7788.66,4,4,4,12,Champion
+C074053,Mumbai,casual,180.0,4,4110.0,3,4,4,11,Champion
+C069897,Delhi,loyal,21.0,16,12716.71,4,4,4,12,Champion
+C081875,Delhi,casual,574.0,2,2998.0,1,3,3,7,Loyal
+C078166,Bangalore,casual,714.0,1,950.0,1,1,1,3,Needs Attention
+C054434,Delhi,casual,698.0,2,782.0,1,2,1,4,Needs Attention
+C099616,Mumbai,casual,42.0,1,2167.0,4,2,3,9,New/Promising
+C074744,Bangalore,regular,200.0,5,4107.0,3,4,4,11,Champion
+C081697,Pune,casual,356.0,2,2366.01,2,3,3,8,Loyal
+C062400,Delhi,casual,508.0,1,1141.62,1,1,2,4,Needs Attention
+C096374,Pune,casual,317.0,1,937.47,2,1,1,4,Needs Attention
+C004307,Delhi,casual,250.0,1,40.0,2,1,1,4,Needs Attention
+C059741,Pune,casual,5.0,1,612.0,4,1,1,6,New/Promising
+C017009,Pune,casual,643.0,2,1458.77,1,2,2,5,Needs Attention
+C088356,Delhi,casual,435.0,3,2172.0,2,3,3,8,Loyal
+C003530,Bangalore,casual,294.0,2,2294.0,2,3,3,8,Loyal
+C031220,Pune,casual,1217.0,1,410.0,1,1,1,3,Needs Attention
+C098447,Bangalore,casual,442.0,1,1040.0,2,1,1,4,Needs Attention
+C011221,Mumbai,casual,12.0,1,699.0,4,1,1,6,New/Promising
+C061869,Mumbai,regular,33.0,4,2838.0,4,3,3,10,Champion
+C092602,Delhi,regular,177.0,3,1886.0,3,3,2,8,Needs Attention
+C052504,Bangalore,casual,576.0,1,333.0,1,1,1,3,Needs Attention
+C070253,Pune,casual,248.0,2,1977.0,2,2,3,7,Needs Attention
+C037249,Mumbai,casual,393.0,3,2663.36,2,3,3,8,Loyal
+C003366,Delhi,regular,130.0,2,1850.0,3,2,2,7,New/Promising
+C096358,Mumbai,casual,1289.0,1,1000.0,1,1,1,3,Needs Attention
+C072551,Delhi,casual,55.0,1,860.0,4,1,1,6,New/Promising
+C059867,Hyderabad,casual,544.0,1,1068.44,1,1,1,3,Needs Attention
+C001207,Mumbai,casual,292.0,1,1196.0,2,1,2,5,Needs Attention
+C031010,Delhi,casual,142.0,4,2454.0,3,3,3,9,Champion
+C013844,Delhi,casual,560.0,2,1829.24,1,2,2,5,Needs Attention
+C061040,Delhi,regular,441.0,4,4536.0,2,4,4,10,Loyal
+C002901,Bangalore,casual,18.0,3,1880.62,4,3,2,9,Needs Attention
+C063862,Bangalore,casual,874.0,1,1340.0,1,2,2,5,Needs Attention
+C080212,Hyderabad,casual,591.0,2,2064.0,1,2,3,6,Needs Attention
+C003114,Bangalore,casual,201.0,2,1440.0,3,2,2,7,New/Promising
+C022532,Bangalore,casual,60.0,2,2433.0,4,3,3,10,Champion
+C058759,Mumbai,regular,140.0,5,4404.48,3,4,4,11,Champion
+C052432,Pune,casual,607.0,3,2719.0,1,3,3,7,Loyal
+C007163,Mumbai,casual,582.0,2,2403.0,1,3,3,7,Loyal
+C099031,Hyderabad,regular,741.0,1,353.0,1,1,1,3,Needs Attention
+C062007,Hyderabad,casual,415.0,1,742.0,2,1,1,4,Needs Attention
+C046792,Delhi,casual,1000.0,1,611.0,1,1,1,3,Needs Attention
+C029550,Pune,regular,199.0,3,3468.0,3,3,3,9,Champion
+C098662,Mumbai,casual,1452.0,1,663.43,1,1,1,3,Needs Attention
+C000835,Mumbai,casual,166.0,2,771.0,3,2,1,6,New/Promising
+C089163,Pune,casual,29.0,2,740.0,4,2,1,7,New/Promising
+C030126,Pune,casual,1487.0,1,497.0,1,1,1,3,Needs Attention
+C035968,Bangalore,casual,554.0,2,2634.0,1,3,3,7,Loyal
+C089512,Mumbai,regular,1.0,8,9333.0,4,4,4,12,Champion
+C065717,Hyderabad,regular,196.0,4,2306.0,3,3,3,9,Champion
+C076940,Bangalore,casual,135.0,2,2619.0,3,3,3,9,Champion
+C085434,Bangalore,casual,589.0,1,318.0,1,1,1,3,Needs Attention
+C031778,Mumbai,casual,114.0,3,2280.0,3,3,3,9,Champion
+C040470,Mumbai,casual,329.0,2,2965.0,2,3,3,8,Loyal
+C099066,Pune,casual,94.0,6,4423.0,3,4,4,11,Champion
+C052665,Pune,casual,341.0,1,1649.24,2,2,2,6,Needs Attention
+C060184,Mumbai,casual,182.0,2,2072.0,3,2,3,8,New/Promising
+C051948,Bangalore,regular,596.0,4,4175.0,1,4,4,9,Loyal
+C087882,Delhi,casual,498.0,1,1001.0,1,1,1,3,Needs Attention
+C024390,Pune,casual,13.0,2,2159.0,4,2,3,9,New/Promising
+C028962,Bangalore,regular,11.0,7,5945.0,4,4,4,12,Champion
+C061530,Pune,casual,95.0,2,1968.0,3,2,2,7,New/Promising
+C095963,Mumbai,regular,80.0,3,2781.0,4,3,3,10,Champion
+C092439,Pune,casual,423.0,3,1000.1,2,3,1,6,At Risk
+C027933,Hyderabad,casual,172.0,1,1345.0,3,2,2,7,New/Promising
+C037062,Delhi,regular,665.0,2,2203.0,1,2,3,6,Needs Attention
+C022298,Pune,casual,210.0,1,749.0,3,1,1,5,New/Promising
+C009485,Delhi,casual,365.0,3,3334.01,2,3,3,8,Loyal
+C022859,Hyderabad,casual,530.0,1,295.81,1,1,1,3,Needs Attention
+C018738,Pune,casual,115.0,3,3566.9,3,3,4,10,Champion
+C078971,Delhi,regular,85.0,1,442.0,4,1,1,6,New/Promising
+C009203,Delhi,casual,254.0,1,642.0,2,1,1,4,Needs Attention
+C053033,Hyderabad,casual,548.0,1,1543.0,1,2,2,5,Needs Attention
+C094575,Hyderabad,casual,15.0,3,2183.17,4,3,3,10,Champion
+C024592,Mumbai,casual,402.0,1,1294.0,2,1,2,5,Needs Attention
+C004710,Mumbai,casual,186.0,1,743.0,3,1,1,5,New/Promising
+C096081,Delhi,casual,305.0,1,272.0,2,1,1,4,Needs Attention
+C005895,Delhi,casual,469.0,2,2218.0,2,3,3,8,Loyal
+C058809,Mumbai,regular,376.0,3,4582.0,2,3,4,9,Loyal
+C005768,Delhi,casual,292.0,1,1655.47,2,2,2,6,Needs Attention
+C090573,Hyderabad,casual,19.0,3,3087.0,4,3,3,10,Champion
+C043921,Pune,loyal,83.0,10,9642.21,4,4,4,12,Champion
+C005803,Pune,casual,165.0,4,4469.0,3,4,4,11,Champion
+C035113,Hyderabad,casual,662.0,2,1442.0,1,2,2,5,Needs Attention
+C025115,Pune,casual,30.0,1,1641.0,4,2,2,8,New/Promising
+C090327,Hyderabad,casual,202.0,5,5251.0,3,4,4,11,Champion
+C018930,Pune,casual,71.0,1,672.0,4,1,1,6,New/Promising
+C013368,Hyderabad,casual,385.0,1,870.0,2,1,1,4,Needs Attention
+C045726,Pune,casual,758.0,1,1754.0,1,2,2,5,Needs Attention
+C084123,Pune,casual,39.0,3,3191.0,4,3,3,10,Champion
+C024995,Mumbai,casual,167.0,1,783.0,3,1,1,5,New/Promising
+C028117,Bangalore,casual,298.0,1,737.0,2,1,1,4,Needs Attention
+C042150,Mumbai,regular,56.0,5,3298.0,4,4,3,11,Champion
+C043673,Pune,casual,298.0,1,1744.0,2,2,2,6,Needs Attention
+C002755,Bangalore,casual,33.0,2,1950.0,4,2,2,8,New/Promising
+C035557,Hyderabad,regular,940.0,2,1557.0,1,2,2,5,Needs Attention
+C035302,Delhi,casual,135.0,1,823.0,3,1,1,5,New/Promising
+C093547,Hyderabad,regular,128.0,6,6611.22,3,4,4,11,Champion
+C098805,Bangalore,regular,35.0,7,8572.0,4,4,4,12,Champion
+C057138,Pune,casual,300.0,2,1270.0,2,2,2,6,Needs Attention
+C074510,Pune,regular,194.0,5,2257.0,3,4,3,10,Champion
+C013868,Mumbai,regular,26.0,5,5603.0,4,4,4,12,Champion
+C078081,Pune,casual,1196.0,1,1081.0,1,1,2,4,Needs Attention
+C025108,Bangalore,casual,516.0,2,1837.0,1,2,2,5,Needs Attention
+C053398,Hyderabad,casual,96.0,2,1454.0,3,2,2,7,New/Promising
+C066806,Bangalore,casual,170.0,2,2318.0,3,3,3,9,Champion
+C011262,Bangalore,casual,68.0,3,3484.0,4,3,3,10,Champion
+C045377,Hyderabad,casual,429.0,1,447.09,2,1,1,4,Needs Attention
+C062258,Pune,casual,188.0,2,2253.0,3,3,3,9,Champion
+C084689,Bangalore,casual,192.0,2,831.0,3,2,1,6,New/Promising
+C006254,Bangalore,casual,286.0,1,1992.0,2,2,3,7,Needs Attention
+C097971,Bangalore,regular,86.0,5,7654.0,4,4,4,12,Champion
+C008287,Delhi,casual,224.0,2,2691.0,3,3,3,9,Champion
+C071708,Mumbai,casual,1181.0,2,3024.0,1,3,3,7,Loyal
+C095030,Mumbai,casual,64.0,1,1359.0,4,2,2,8,New/Promising
+C045160,Delhi,regular,121.0,4,4192.0,3,4,4,11,Champion
+C015608,Mumbai,casual,186.0,2,772.0,3,2,1,6,New/Promising
+C080054,Delhi,loyal,66.0,14,9400.89,4,4,4,12,Champion
+C073182,Hyderabad,casual,309.0,1,234.0,2,1,1,4,Needs Attention
+C065432,Hyderabad,casual,493.0,2,2246.0,1,3,3,7,Loyal
+C040026,Hyderabad,casual,569.0,4,3329.79,1,4,3,8,Loyal
+C028973,Mumbai,casual,261.0,3,2885.0,2,3,3,8,Loyal
+C039505,Mumbai,casual,833.0,1,29.01,1,1,1,3,Needs Attention
+C081949,Hyderabad,casual,321.0,4,3606.0,2,4,4,10,Loyal
+C002255,Bangalore,casual,88.0,4,4202.0,4,4,4,12,Champion
+C054869,Delhi,casual,41.0,1,516.0,4,1,1,6,New/Promising
+C074490,Delhi,loyal,78.0,11,11428.18,4,4,4,12,Champion
